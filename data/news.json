@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-09-16T21:30:00-05:00",
+  "items": [
+    {
+      "title": "Z.ai presenta GLM-5.3-Flash con multimodalidad nativa y menor cómputo activo",
+      "summary": "Z.ai publicó GLM-5.3-Flash, un modelo multimodal de la familia GLM-5 orientado a tareas complejas, agentes, visión y trabajo profesional, con una arquitectura diseñada para reducir el cómputo activo.",
+      "date": "2026-09-16",
+      "company": "Z.ai / Zhipu AI",
+      "related": "GLM Z.ai Zhipu AI",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Z.ai / AutoClaw",
+      "official": true,
+      "url": "https://autoclaw.z.ai/blog/model/glm-5.3-flash/"
+    },
+    {
+      "title": "Google presenta Gemini 3.8 Live y Gemini 3.8 Live Extended Thinking",
+      "summary": "Google anunció dos modelos de diálogo casi en tiempo real con mejoras de inteligencia, razonamiento paralelo y capacidades orientadas a agentes de voz.",
+      "date": "2026-09-15",
+      "company": "Google DeepMind",
+      "related": "Gemini Google DeepMind",
+      "region": "Estados Unidos / Reino Unido",
+      "category": "Voz y agentes",
+      "source": "Google",
+      "official": true,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    },
+    {
+      "title": "DeepSeek lanza V4.1-Flash con visión nativa y nueva arquitectura",
+      "summary": "DeepSeek publicó V4.1-Flash, un modelo MoE con comprensión visual nativa y una arquitectura enfocada en mayor capacidad, velocidad y eficiencia de inferencia.",
+      "date": "2026-09-10",
+      "company": "DeepSeek",
+      "related": "DeepSeek V4.1 Flash",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "DeepSeek",
+      "official": true,
+      "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/"
+    },
+    {
+      "title": "OpenAI amplía las experiencias de voz para desarrolladores con GPT-Live-1",
+      "summary": "GPT-Live-1 llega a la API con conversaciones de voz full-duplex, mejor seguimiento de instrucciones, más voces y opciones orientadas a experiencias de voz de producción.",
+      "date": "2026-09-10",
+      "company": "OpenAI",
+      "related": "OpenAI ChatGPT GPT-Live-1",
+      "region": "Estados Unidos",
+      "category": "Voz",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
+    },
+    {
+      "title": "OpenAI publica GPT-6 Astra como nueva generación de modelo de frontera",
+      "summary": "OpenAI presentó GPT-6 Astra para trabajo profesional, navegación, ingeniería de software, ciencia y uso de computadoras, junto con documentación de seguridad específica.",
+      "date": "2026-09-03",
+      "company": "OpenAI",
+      "related": "OpenAI ChatGPT GPT-6 Astra",
+      "region": "Estados Unidos",
+      "category": "Modelos fundacionales",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+      "title": "Anthropic presenta Claude Fable 5.1 para programación y trabajo de conocimiento",
+      "summary": "Anthropic anunció Claude Fable 5.1 como su modelo general disponible para programación, trabajo de conocimiento e investigación, junto con una variante de acceso controlado.",
+      "date": "2026-09-01",
+      "company": "Anthropic",
+      "related": "Anthropic Claude Fable 5.1",
+      "region": "Estados Unidos",
+      "category": "Modelos fundacionales",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "title": "Grok Build incorpora memoria persistente entre sesiones de proyecto",
+      "summary": "SpaceXAI añadió memoria a Grok Build para conservar convenciones, decisiones y hechos del proyecto entre sesiones de desarrollo.",
+      "date": "2026-09-16",
+      "company": "SpaceXAI / xAI",
+      "related": "Grok SpaceXAI xAI Grok Build",
+      "region": "Estados Unidos",
+      "category": "Programación y agentes",
+      "source": "SpaceXAI",
+      "official": true,
+      "url": "https://x.ai/news/grok-build-memory"
+    },
+    {
+      "title": "Grok Bot amplía su enfoque de agentes persistentes al entorno empresarial",
+      "summary": "SpaceXAI publicó Grok Bot para Enterprise con controles de acceso, red y auditoría para agentes que trabajan de forma persistente en herramientas y aplicaciones.",
+      "date": "2026-09-03",
+      "company": "SpaceXAI / xAI",
+      "related": "Grok SpaceXAI xAI Grok Bot",
+      "region": "Estados Unidos",
+      "category": "Agentes",
+      "source": "SpaceXAI",
+      "official": true,
+      "url": "https://x.ai/news/grok-bot-for-enterprise"
+    },
+    {
+      "title": "Alibaba actualiza Qwen3.8-Max con mejoras en código, agentes y visión",
+      "summary": "Alibaba Cloud publicó el snapshot Qwen3.8-Max-0902 con mejoras en ingeniería de software, desarrollo autónomo de larga duración, orquestación de herramientas y comprensión visual.",
+      "date": "2026-09-02",
+      "company": "Alibaba",
+      "related": "Qwen Alibaba Qwen3.8 Max",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Alibaba Cloud",
+      "official": true,
+      "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/newly-released-models"
+    },
+    {
+      "title": "MiniMax abre H3, un modelo multimodal orientado a generación de video",
+      "summary": "MiniMax publicó H3 como modelo abierto de generación multimodal capaz de comprender texto, imágenes, video y audio y generar video con audio estéreo nativo.",
+      "date": "2026-08-03",
+      "company": "MiniMax",
+      "related": "MiniMax H3",
+      "region": "China / Asia",
+      "category": "Video y modelos abiertos",
+      "source": "MiniMax",
+      "official": true,
+      "url": "https://www.minimax.io/news/minimax-h3-open-source"
+    }
+  ]
+}
