@@ -1,0 +1,20 @@
+/* Ajuste editorial del hero: preserva cabezas y una mayor parte del cuerpo sin deformar la imagen. */
+.heroVisual{min-height:min(820px,calc(100vh - 72px));}
+.heroInner{min-height:min(820px,calc(100vh - 72px));}
+.heroImage{background-size:cover;background-position:center top;}
+
+/* En monitores panorámicos evitamos el recorte agresivo producido por cover. */
+@media (min-width:1200px) and (min-aspect-ratio:16/10){
+  .heroVisual,.heroInner{min-height:min(820px,calc(100vh - 72px));}
+  .heroImage{background-size:100% auto;background-position:center top;background-repeat:no-repeat;background-color:#081226;}
+}
+
+@media (max-width:1050px){
+  .heroVisual,.heroInner{min-height:720px;}
+  .heroImage{background-size:cover;background-position:52% top;}
+}
+
+@media (max-width:700px){
+  .heroVisual,.heroInner{min-height:760px;}
+  .heroImage{background-size:cover;background-position:58% top;}
+}
