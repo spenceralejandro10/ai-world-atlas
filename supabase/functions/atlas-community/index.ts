@@ -19,6 +19,7 @@ function corsHeaders(req:Request){
 }
 function validUuid(v:string){return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(v)}
 function cleanText(v:unknown,max:number){return String(v??'').replace(/[\u0000-\u001F\u007F]/g,' ').trim().slice(0,max)}
+function cleanGender(v:unknown){const g=String(v||'anon');return g==='boy'||g==='girl'?g:'anon'}
 
 Deno.serve(async(req)=>{
   const headers=corsHeaders(req)
@@ -47,14 +48,14 @@ Deno.serve(async(req)=>{
       return new Response(JSON.stringify({ok:true}),{headers})
     }
     if(action==='messages'){
-      const since=new Date(Date.now()-7*86400000).toISOString();const {data,error}=await client.from('chat_messages').select('alias,message,created_at').gt('created_at',since).order('created_at',{ascending:false}).limit(40);if(error)throw error
+      const {data,error}=await client.from('chat_messages').select('id,alias,gender,message,created_at').order('created_at',{ascending:false}).limit(100);if(error)throw error
       return new Response(JSON.stringify({messages:data||[]}),{headers})
     }
     if(action==='send'){
       const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return new Response(JSON.stringify({error:'invalid_visitor'}),{status:400,headers})
-      const alias=cleanText(body?.alias,24)||'Visitante',message=cleanText(body?.message,500);if(!message)return new Response(JSON.stringify({error:'empty_message'}),{status:400,headers})
-      const {error}=await client.from('chat_messages').insert({visitor_id:visitorId,alias,message});if(error){const rate=String(error.message||'').includes('rate_limited');return new Response(JSON.stringify({error:rate?'rate_limited':'send_failed'}),{status:rate?429:400,headers})}
-      return new Response(JSON.stringify({ok:true}),{headers})
+      const alias=cleanText(body?.alias,24)||'Visitante',message=cleanText(body?.message,500),gender=cleanGender(body?.gender);if(!message)return new Response(JSON.stringify({error:'empty_message'}),{status:400,headers})
+      const {data,error}=await client.from('chat_messages').insert({visitor_id:visitorId,alias,gender,message}).select('id,alias,gender,message,created_at').single();if(error){const rate=String(error.message||'').includes('rate_limited');return new Response(JSON.stringify({error:rate?'rate_limited':'send_failed'}),{status:rate?429:400,headers})}
+      return new Response(JSON.stringify({ok:true,message:data}),{headers})
     }
     return new Response(JSON.stringify({error:'unknown_action'}),{status:400,headers})
   }catch(_e){return new Response(JSON.stringify({error:'community_unavailable'}),{status:500,headers})}
