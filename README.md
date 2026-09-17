@@ -1,102 +1,151 @@
 # AI World Atlas
 
-**AI World Atlas** es un proyecto personal que desarrollé para estudiar, comparar y comprender mejor el ecosistema mundial de inteligencia artificial.
+**AI World Atlas** es un proyecto personal de David Spencer para estudiar, comparar y comprender el ecosistema mundial de inteligencia artificial sin mezclar categorías técnicamente distintas.
 
-Mi objetivo con este proyecto es responder una pregunta que cada vez resulta más difícil contestar con una simple lista: **¿qué empresas realmente construyen modelos de inteligencia artificial y cuáles desarrollan productos apoyándose en modelos creados por terceros?**
+La idea central es ayudar a una persona que empieza en IA a recorrer este camino:
 
-Para construir y documentar el proyecto utilicé herramientas de inteligencia artificial como apoyo durante el proceso de investigación, organización de información, diseño de la interfaz y desarrollo. La dirección del proyecto, sus objetivos, criterios de organización y decisiones finales fueron definidos por mí.
+**DESCUBRIR → ENTENDER → COMPARAR → ELEGIR → APRENDER → MANTENERSE ACTUALIZADO**
 
-## Propósito del proyecto
+La plataforma distingue entre quienes desarrollan la tecnología base y quienes construyen productos sobre ella.
 
-Creé AI World Atlas para tener un punto de referencia visual y organizado desde el cual pueda analizar las principales inteligencias artificiales del mundo sin mezclar categorías que técnicamente son distintas.
+## Jerarquía editorial
 
-El proyecto busca diferenciar principalmente entre:
+El Atlas organiza el ecosistema en tres niveles principales:
 
-- **Modelos e infraestructura propia:** organizaciones que desarrollan o entrenan sus propios modelos principales de inteligencia artificial.
-- **Plataformas híbridas:** productos u organizaciones que combinan modelos propios con modelos o infraestructura externa.
-- **Aplicaciones construidas sobre otras inteligencias artificiales:** productos cuyo valor principal está en la experiencia, especialización o flujo de trabajo, aunque utilicen modelos de terceros como base.
+1. **Laboratorios y ecosistemas de IA**: organizaciones con investigación, modelos, infraestructura, APIs o ecosistemas propios relevantes.
+2. **Modelos y productos oficiales**: modelos fundacionales, asistentes y productos creados por esas organizaciones.
+3. **Aplicaciones con inteligencia artificial**: productos especializados que pueden utilizar modelos propios o de terceros.
 
-También quiero entender **en qué destaca cada sistema**, cuáles son sus principales capacidades, qué limitaciones tiene y en qué tipo de trabajo puede resultar más competitivo.
+Una interfaz de chat atractiva no se trata automáticamente como un laboratorio líder. Cuando una aplicación depende principalmente de modelos externos, el Atlas intenta indicarlo de forma explícita.
 
-## Qué contiene
+## Funciones actuales
 
-La aplicación incluye un catálogo visual de inteligencias artificiales, empresas y productos de diferentes países y regiones, con información como:
+- Cobertura mundial por organizaciones, países y regiones.
+- Sección prioritaria de laboratorios y ecosistemas.
+- Comparación orientativa de asistentes de propósito general.
+- Comparativas por especialidad.
+- Directorio con búsqueda por nombre, empresa, país, capacidad y necesidades expresadas en lenguaje natural.
+- Sección separada para aplicaciones con IA.
+- Enlaces directos a sitios oficiales.
+- Favoritos y descartados persistentes en el navegador.
+- Panel lateral **Mis IA de trabajo**.
+- **Radar IA · Actualidad** con noticias estructuradas y enlaces a las fuentes.
+- Actualización automática diaria del Radar mediante GitHub Actions.
+- Relación entre noticias y fichas del directorio.
+- Selector de idioma **ES / EN / FIL** en una sola aplicación.
+- Explicaciones sencillas de laboratorio, modelo, producto y aplicación con IA.
+- Validaciones automáticas de sintaxis y datos mediante GitHub Actions.
 
-- Empresa u organización responsable.
-- País y región de origen.
-- Tipo de producto o modelo.
-- Capacidades principales.
-- Modelos asociados.
-- Uso de modelos propios o de terceros.
-- Fortalezas y áreas de especialización.
-- Limitaciones relevantes.
-- Comparaciones generales y por especialidad.
-- Herramientas de búsqueda y filtrado.
+## Radar IA · Actualidad
 
-## Cómo interpreto los rankings
+`data/news.json` contiene la edición visible del Radar.
 
-Una parte importante del proyecto es comparar sistemas, pero no considero que exista una única inteligencia artificial que sea "la mejor" para absolutamente todo.
+El workflow `.github/workflows/radar.yml` ejecuta diariamente `scripts/update-radar.mjs`, que intenta:
 
-Por eso intento separar dos perspectivas:
+**buscar → recopilar → eliminar duplicados → clasificar → seleccionar → publicar**
 
-1. **Capacidad general:** razonamiento, multimodalidad, programación, herramientas, agentes, calidad de respuesta y amplitud de uso.
-2. **Especialización:** programación, generación de imágenes, video, voz, música, búsqueda, modelos abiertos y otras áreas concretas.
+La selección utiliza señales de actualidad, relevancia temática, laboratorio relacionado y prioridad de fuente. El script conserva la edición anterior si no consigue suficientes resultados nuevos, evitando reemplazar el Radar con información insuficiente.
 
-Los rankings representan una fotografía del estado del mercado en un momento determinado. Los modelos cambian rápidamente y una nueva versión puede modificar una clasificación en cuestión de semanas o meses.
+El Atlas resume y enlaza; no copia artículos completos.
 
-Por esa razón, el proyecto debe entenderse como **un atlas de análisis en evolución**, no como una verdad permanente.
+## Arquitectura
 
-## Metodología
+La aplicación sigue siendo ligera y compatible con GitHub Pages:
 
-Para estructurar el análisis tengo en cuenta, cuando la información está disponible:
+- `index.html` — estructura principal.
+- `styles.css` — diseño base.
+- `hero-fix.css` — encuadre responsive de la portada.
+- `atlas-v2.css` — mejoras incrementales del Atlas.
+- `ranking.js` — comparación general.
+- `specialties.js` — especialidades.
+- `directory.js` — catálogo principal.
+- `ui.js` — comportamiento original de interfaz.
+- `atlas-v2.js` — jerarquía, búsqueda por necesidades, fichas enriquecidas, noticias e i18n dinámico.
+- `atlas-copy.js` — traducción de copia estática.
+- `community.js` — cliente opcional para comunidad y estadísticas reales.
+- `data/news.json` — Radar IA.
+- `scripts/` — automatizaciones y validaciones.
+- `supabase/` — esquema y función preparados para backend comunitario.
 
-- Documentación oficial de cada empresa.
-- Información pública sobre modelos y capacidades.
-- Evaluaciones y benchmarks publicados.
-- Disponibilidad de herramientas y modalidades.
-- Ecosistema e integraciones.
-- Grado de independencia tecnológica.
-- Uso de modelos propios frente a proveedores externos.
-- Rendimiento observado según el tipo de tarea.
+## Estadísticas, chat y “Me gusta” global
 
-Cuando un dato no puede establecerse con suficiente seguridad, prefiero marcarlo como **por verificar**, **mixto** o **dependiente del caso**, en lugar de presentar una afirmación dudosa como un hecho.
+El repositorio incluye una arquitectura preparada para activar:
 
-## Tecnologías
+- visitantes totales reales;
+- visitantes conectados;
+- distribución agregada por continente;
+- contador persistente de “Me gusta”;
+- chat global con alias temporal;
+- mensajes en tiempo real;
+- controles básicos de privacidad y límites de longitud.
 
-La versión actual está construida como una aplicación web ligera en:
+Estos datos **no se simulan**. Mientras no exista un proyecto backend dedicado, `backend.config.js` mantiene la integración desactivada y la interfaz pública no muestra cifras ficticias.
 
-- HTML5
-- CSS3
-- JavaScript
+El esquema propuesto está en `supabase/schema.sql` y la función de registro agregado de visitas en `supabase/functions/atlas-visit/index.ts`. La función está diseñada para guardar únicamente continente aproximado y un identificador aleatorio del navegador; no guarda ni expone direcciones IP individuales ni ubicación precisa.
 
-No requiere instalación de dependencias ni un servidor para ejecutarse localmente.
+## Idiomas
 
-## Ejecutar el proyecto
+La aplicación mantiene una sola base de código e incluye selector:
 
-1. Descarga o clona este repositorio.
-2. Abre `index.html` en un navegador moderno.
+- Español
+- English
+- Filipino / Tagalog
 
-También puede publicarse fácilmente mediante GitHub Pages o cualquier servicio de hosting estático.
+La preferencia se recuerda mediante almacenamiento local del navegador.
 
-## Estado del proyecto
+## Favoritos
 
-El proyecto está en desarrollo activo. Mi intención es continuar ampliando el catálogo, mejorar la precisión de las comparaciones y añadir más información sobre modelos, proveedores, regiones, benchmarks y relaciones entre empresas.
+Las selecciones de **Mis IA de trabajo** se guardan localmente en el navegador con `localStorage`. No requieren cuenta y no se envían a un servidor.
+
+## Criterio editorial
+
+El proyecto evita presentar marketing como evidencia técnica. Cuando sea posible se priorizan:
+
+1. documentación oficial;
+2. publicaciones de laboratorios;
+3. documentación técnica y científica;
+4. benchmarks independientes;
+5. medios tecnológicos reconocidos y agencias de noticias.
+
+No considero que exista una única IA que sea la mejor para absolutamente todo. El Atlas intenta mostrar capacidad general y, por separado, fortalezas concretas como programación, investigación, razonamiento, imágenes, video, voz, agentes, modelos abiertos y ecosistema.
+
+## Ejecutar localmente
+
+No requiere instalación de dependencias para la interfaz principal.
+
+1. Clona o descarga el repositorio.
+2. Sirve la carpeta con un servidor HTTP local para que `fetch()` pueda leer `data/news.json`.
+
+Por ejemplo:
+
+```bash
+python -m http.server 8000
+```
+
+Después abre `http://localhost:8000`.
+
+## Validación
+
+El workflow `.github/workflows/quality.yml` comprueba:
+
+- sintaxis JavaScript;
+- presencia de archivos esenciales;
+- estructura de `data/news.json`;
+- URLs HTTPS;
+- noticias duplicadas.
+
+También puedes ejecutar localmente:
+
+```bash
+node scripts/validate-data.mjs
+```
 
 ## Uso de inteligencia artificial durante el desarrollo
 
-Utilicé inteligencia artificial como una herramienta de apoyo para acelerar partes del proceso, incluyendo investigación, estructuración de datos, revisión de contenido, diseño y generación de código.
-
-No considero este proyecto un producto generado de forma autónoma por una IA. **La idea, el propósito, la selección de qué analizar, la estructura del atlas y las decisiones sobre el resultado final forman parte de mi propio trabajo sobre el proyecto.**
-
-## Objetivo a largo plazo
-
-Quiero que AI World Atlas evolucione hasta convertirse en una referencia sencilla para entender:
-
-- quién está creando la tecnología base de inteligencia artificial;
-- quién está construyendo productos sobre esa tecnología;
-- qué países y empresas están liderando distintas áreas;
-- y cuál herramienta puede ser más adecuada dependiendo del problema que se quiera resolver.
+Utilicé herramientas de inteligencia artificial como apoyo para investigación, estructuración de información, diseño, revisión y desarrollo. La dirección del proyecto, objetivos, criterios de organización y decisiones finales forman parte de mi trabajo sobre el Atlas.
 
 ---
 
-**AI World Atlas — proyecto personal de análisis del ecosistema global de inteligencia artificial.**
+**DS · AI WORLD ATLAS**  
+Investigación, análisis y desarrollo por David Spencer.  
+Ingeniero de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD) · Desarrollador de Software · SENA.
