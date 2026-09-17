@@ -1,29 +1,24 @@
-/* Encuadre editorial del hero: prioriza conservar la composición vertical original. */
-.heroVisual{min-height:820px;}
-.heroInner{min-height:820px;}
-.heroImage{background-size:cover;background-position:center top;background-repeat:no-repeat;background-color:#081226;}
+/* Encuadre del hero basado en la proporción real de atlas-hero.png (1670 × 942).
+   En escritorio la altura del hero coincide exactamente con la altura renderizada
+   de la imagen cuando ocupa el 100% del ancho: 942 / 1670 = 56.4072vw. */
+.heroVisual{position:relative;min-height:650px;overflow:hidden;background:#081226;}
+.heroInner{min-height:650px;}
+.heroImage{background-size:cover;background-position:center top;background-repeat:no-repeat;}
 
-/* La portada original es aproximadamente 3:2. En escritorio mantenemos ese encuadre
-   para mostrar cabeza, torso y cintura sin deformar ni recortar agresivamente. */
 @media (min-width:1200px){
-  .heroVisual{min-height:max(900px,66.6667vw);}
-  .heroInner{min-height:max(900px,66.6667vw);}
-  .heroImage{background-size:100% auto;background-position:center top;background-repeat:no-repeat;background-color:#081226;}
+  .heroVisual,.heroInner{height:56.4072vw;min-height:0;max-height:none;}
+  .heroImage{background-size:100% auto;background-position:center top;background-repeat:no-repeat;background-color:transparent;}
   .heroCopy{align-self:flex-start;padding-top:86px;}
 }
 
-/* Pantallas especialmente anchas: se conserva todo el ancho y se deja crecer el hero
-   según la proporción de la imagen, evitando sacrificar la cintura para llenar el viewport. */
-@media (min-width:1500px){
-  .heroVisual,.heroInner{min-height:66.6667vw;}
+/* En pantallas intermedias usamos cover para mantener el hero lleno sin franjas. */
+@media (min-width:701px) and (max-width:1199px){
+  .heroVisual,.heroInner{min-height:720px;}
+  .heroImage{background-size:cover;background-position:center top;}
 }
 
-@media (max-width:1050px){
-  .heroVisual,.heroInner{min-height:780px;}
-  .heroImage{background-size:cover;background-position:52% top;}
-}
-
+/* En móvil priorizamos a las personas y llenamos completamente el contenedor. */
 @media (max-width:700px){
-  .heroVisual,.heroInner{min-height:820px;}
+  .heroVisual,.heroInner{min-height:820px;height:auto;}
   .heroImage{background-size:cover;background-position:58% top;}
 }
