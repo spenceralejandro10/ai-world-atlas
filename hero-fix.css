@@ -1,20 +1,29 @@
-/* Ajuste editorial del hero: preserva cabezas y una mayor parte del cuerpo sin deformar la imagen. */
-.heroVisual{min-height:min(820px,calc(100vh - 72px));}
-.heroInner{min-height:min(820px,calc(100vh - 72px));}
-.heroImage{background-size:cover;background-position:center top;}
+/* Encuadre editorial del hero: prioriza conservar la composición vertical original. */
+.heroVisual{min-height:820px;}
+.heroInner{min-height:820px;}
+.heroImage{background-size:cover;background-position:center top;background-repeat:no-repeat;background-color:#081226;}
 
-/* En monitores panorámicos evitamos el recorte agresivo producido por cover. */
-@media (min-width:1200px) and (min-aspect-ratio:16/10){
-  .heroVisual,.heroInner{min-height:min(820px,calc(100vh - 72px));}
+/* La portada original es aproximadamente 3:2. En escritorio mantenemos ese encuadre
+   para mostrar cabeza, torso y cintura sin deformar ni recortar agresivamente. */
+@media (min-width:1200px){
+  .heroVisual{min-height:max(900px,66.6667vw);}
+  .heroInner{min-height:max(900px,66.6667vw);}
   .heroImage{background-size:100% auto;background-position:center top;background-repeat:no-repeat;background-color:#081226;}
+  .heroCopy{align-self:flex-start;padding-top:86px;}
+}
+
+/* Pantallas especialmente anchas: se conserva todo el ancho y se deja crecer el hero
+   según la proporción de la imagen, evitando sacrificar la cintura para llenar el viewport. */
+@media (min-width:1500px){
+  .heroVisual,.heroInner{min-height:66.6667vw;}
 }
 
 @media (max-width:1050px){
-  .heroVisual,.heroInner{min-height:720px;}
+  .heroVisual,.heroInner{min-height:780px;}
   .heroImage{background-size:cover;background-position:52% top;}
 }
 
 @media (max-width:700px){
-  .heroVisual,.heroInner{min-height:760px;}
+  .heroVisual,.heroInner{min-height:820px;}
   .heroImage{background-size:cover;background-position:58% top;}
 }
