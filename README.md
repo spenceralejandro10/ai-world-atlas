@@ -2,121 +2,99 @@
 
 **AI World Atlas** es un proyecto personal de David Spencer para estudiar, comparar y comprender el ecosistema mundial de inteligencia artificial sin mezclar categorías técnicamente distintas.
 
-La idea central es ayudar a una persona que empieza en IA a recorrer este camino:
+El recorrido editorial del proyecto es:
 
-**DESCUBRIR → ENTENDER → COMPARAR → ELEGIR → APRENDER → MANTENERSE ACTUALIZADO**
+**DESCUBRIR → ENTENDER → COMPARAR → ELEGIR → APRENDER → MANTENERSE ACTUALIZADO → CONVERSAR**
 
-La plataforma distingue entre quienes desarrollan la tecnología base y quienes construyen productos sobre ella.
+## Qué contiene
+
+- Laboratorios y ecosistemas de IA con infraestructura, investigación, modelos o plataformas propias.
+- Modelos y productos oficiales separados de aplicaciones construidas sobre tecnología de terceros.
+- Comparación orientativa de asistentes de propósito general.
+- Comparativas por especialidad: razonamiento, programación, investigación, imagen, video, voz y más.
+- Directorio mundial con búsqueda por nombre, empresa, país, capacidad o necesidad.
+- Favoritos locales mediante **Mis IA de trabajo**.
+- **Radar IA · Actualidad** con fuentes enlazadas y actualización automática diaria.
+- Interfaz en español, inglés y filipino/tagalo.
+- Contadores reales de visitantes, personas en vivo y “Me gusta”.
+- **Comunidad AI World Atlas** con chat anónimo y debates con respuestas.
+- Identidad comunitaria simple: Chico/Chica + apodo manual o divertido generado al azar.
+- Reporte de mensajes, temas y respuestas.
+- Recordatorio de opinión / “Me gusta” como máximo una vez cada 24 horas por navegador.
+- Aplicación web instalable mediante manifest + service worker.
 
 ## Jerarquía editorial
 
 El Atlas organiza el ecosistema en tres niveles principales:
 
-1. **Laboratorios y ecosistemas de IA**: organizaciones con investigación, modelos, infraestructura, APIs o ecosistemas propios relevantes.
-2. **Modelos y productos oficiales**: modelos fundacionales, asistentes y productos creados por esas organizaciones.
+1. **Laboratorios y ecosistemas de IA**: organizaciones que investigan, entrenan modelos o mantienen infraestructura y plataformas relevantes.
+2. **Modelos y productos oficiales**: modelos fundacionales, asistentes y productos de esas organizaciones.
 3. **Aplicaciones con inteligencia artificial**: productos especializados que pueden utilizar modelos propios o de terceros.
 
-Una interfaz de chat atractiva no se trata automáticamente como un laboratorio líder. Cuando una aplicación depende principalmente de modelos externos, el Atlas intenta indicarlo de forma explícita.
+Una interfaz atractiva o popular no se considera automáticamente un laboratorio de IA. El objetivo es distinguir quién desarrolla la tecnología base y quién construye sobre ella.
 
-## Funciones actuales
+## Comunidad y backend
 
-- Cobertura mundial por organizaciones, países y regiones.
-- Sección prioritaria de laboratorios y ecosistemas.
-- Comparación orientativa de asistentes de propósito general.
-- Comparativas por especialidad.
-- Directorio con búsqueda por nombre, empresa, país, capacidad y necesidades expresadas en lenguaje natural.
-- Sección separada para aplicaciones con IA.
-- Enlaces directos a sitios oficiales.
-- Favoritos y descartados persistentes en el navegador.
-- Panel lateral **Mis IA de trabajo**.
-- **Radar IA · Actualidad** con noticias estructuradas y enlaces a las fuentes.
-- Actualización automática diaria del Radar mediante GitHub Actions.
-- Relación entre noticias y fichas del directorio.
-- Selector de idioma **ES / EN / FIL** en una sola aplicación.
-- Explicaciones sencillas de laboratorio, modelo, producto y aplicación con IA.
-- Validaciones automáticas de sintaxis y datos mediante GitHub Actions.
+El backend comunitario está activo sobre Supabase. El navegador utiliza únicamente una clave pública y **no accede directamente a las tablas**. Chat, debates, respuestas, likes, reportes y estadísticas pasan por Edge Functions.
 
-## Radar IA · Actualidad
+Controles principales:
 
-`data/news.json` contiene la edición visible del Radar.
+- RLS habilitado en las tablas comunitarias;
+- permisos directos revocados para `anon` y `authenticated`;
+- `service_role` únicamente en Edge Functions;
+- límites de longitud y de frecuencia;
+- contenido de usuario escapado en el cliente;
+- validación del servidor contra HTML/JavaScript ejecutable y patrones de inyección;
+- tamaño máximo de payload y lista de acciones permitidas;
+- reportes comunitarios;
+- CI con pruebas básicas de seguridad.
 
-El workflow `.github/workflows/radar.yml` ejecuta diariamente `scripts/update-radar.mjs`, que intenta:
-
-**buscar → recopilar → eliminar duplicados → clasificar → seleccionar → publicar**
-
-La selección utiliza señales de actualidad, relevancia temática, laboratorio relacionado y prioridad de fuente. El script conserva la edición anterior si no consigue suficientes resultados nuevos, evitando reemplazar el Radar con información insuficiente.
-
-El Atlas resume y enlaza; no copia artículos completos.
+Consulta [`SECURITY.md`](SECURITY.md) para el modelo de seguridad completo.
 
 ## Arquitectura
 
-La aplicación sigue siendo ligera y compatible con GitHub Pages:
+La interfaz principal continúa siendo ligera y compatible con GitHub Pages:
 
 - `index.html` — estructura principal.
 - `styles.css` — diseño base.
 - `hero-fix.css` — encuadre responsive de la portada.
-- `atlas-v2.css` — mejoras incrementales del Atlas.
+- `atlas-v2.css` — mejoras editoriales del Atlas.
+- `community-v2.css` — estilos del hub comunitario.
 - `ranking.js` — comparación general.
 - `specialties.js` — especialidades.
-- `directory.js` — catálogo principal.
-- `ui.js` — comportamiento original de interfaz.
-- `atlas-v2.js` — jerarquía, búsqueda por necesidades, fichas enriquecidas, noticias e i18n dinámico.
+- `directory.js` — catálogo mundial.
+- `ui.js` — interacción principal.
+- `atlas-v2.js` — jerarquía, búsqueda enriquecida, noticias e i18n dinámico.
 - `atlas-copy.js` — traducción de copia estática.
-- `community.js` — cliente opcional para comunidad y estadísticas reales.
-- `data/news.json` — Radar IA.
+- `community.js` — chat, debates, likes, identidad, reportes y recordatorio 24 h.
+- `data/news.json` — edición visible del Radar IA.
 - `scripts/` — automatizaciones y validaciones.
-- `supabase/` — esquema y función preparados para backend comunitario.
+- `supabase/schema.sql` — esquema comunitario de referencia.
+- `supabase/functions/` — Edge Functions del backend.
+- `manifest.webmanifest` + `sw.js` — instalación como PWA.
 
-## Estadísticas, chat y “Me gusta” global
+## Radar IA · Actualidad
 
-El repositorio incluye una arquitectura preparada para activar:
+El workflow `.github/workflows/radar.yml` ejecuta diariamente `scripts/update-radar.mjs` y aplica este flujo:
 
-- visitantes totales reales;
-- visitantes conectados;
-- distribución agregada por continente;
-- contador persistente de “Me gusta”;
-- chat global con alias temporal;
-- mensajes en tiempo real;
-- controles básicos de privacidad y límites de longitud.
+**buscar → recopilar → eliminar duplicados → clasificar → seleccionar → publicar**
 
-Estos datos **no se simulan**. Mientras no exista un proyecto backend dedicado, `backend.config.js` mantiene la integración desactivada y la interfaz pública no muestra cifras ficticias.
+El Atlas resume y enlaza las fuentes; no copia artículos completos.
 
-El esquema propuesto está en `supabase/schema.sql` y la función de registro agregado de visitas en `supabase/functions/atlas-visit/index.ts`. La función está diseñada para guardar únicamente continente aproximado y un identificador aleatorio del navegador; no guarda ni expone direcciones IP individuales ni ubicación precisa.
+## Seguridad y calidad
 
-## Idiomas
+`.github/workflows/quality.yml` comprueba:
 
-La aplicación mantiene una sola base de código e incluye selector:
+- sintaxis JavaScript;
+- estructura de datos;
+- manifiesto PWA;
+- smoke tests de seguridad comunitaria.
 
-- Español
-- English
-- Filipino / Tagalog
-
-La preferencia se recuerda mediante almacenamiento local del navegador.
-
-## Favoritos
-
-Las selecciones de **Mis IA de trabajo** se guardan localmente en el navegador con `localStorage`. No requieren cuenta y no se envían a un servidor.
-
-## Criterio editorial
-
-El proyecto evita presentar marketing como evidencia técnica. Cuando sea posible se priorizan:
-
-1. documentación oficial;
-2. publicaciones de laboratorios;
-3. documentación técnica y científica;
-4. benchmarks independientes;
-5. medios tecnológicos reconocidos y agencias de noticias.
-
-No considero que exista una única IA que sea la mejor para absolutamente todo. El Atlas intenta mostrar capacidad general y, por separado, fortalezas concretas como programación, investigación, razonamiento, imágenes, video, voz, agentes, modelos abiertos y ecosistema.
+La comunidad trata los mensajes como texto. Incluso si alguien intenta introducir etiquetas o código, la interfaz escapa la salida y el servidor bloquea patrones ejecutables o de inyección considerados de alto riesgo.
 
 ## Ejecutar localmente
 
 No requiere instalación de dependencias para la interfaz principal.
-
-1. Clona o descarga el repositorio.
-2. Sirve la carpeta con un servidor HTTP local para que `fetch()` pueda leer `data/news.json`.
-
-Por ejemplo:
 
 ```bash
 python -m http.server 8000
@@ -124,28 +102,14 @@ python -m http.server 8000
 
 Después abre `http://localhost:8000`.
 
-## Validación
-
-El workflow `.github/workflows/quality.yml` comprueba:
-
-- sintaxis JavaScript;
-- presencia de archivos esenciales;
-- estructura de `data/news.json`;
-- URLs HTTPS;
-- noticias duplicadas.
-
-También puedes ejecutar localmente:
-
-```bash
-node scripts/validate-data.mjs
-```
-
 ## Uso de inteligencia artificial durante el desarrollo
 
-Utilicé herramientas de inteligencia artificial como apoyo para investigación, estructuración de información, diseño, revisión y desarrollo. La dirección del proyecto, objetivos, criterios de organización y decisiones finales forman parte de mi trabajo sobre el Atlas.
+Utilicé herramientas de inteligencia artificial como apoyo para investigación, estructuración de información, diseño, revisión, seguridad y desarrollo. La dirección del proyecto, objetivos, criterios de organización y decisiones finales forman parte de mi trabajo sobre el Atlas.
 
 ---
 
 **DS · AI WORLD ATLAS**  
 Investigación, análisis y desarrollo por David Spencer.  
-Ingeniero de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD) · Desarrollador de Software · SENA.
+Ingeniero de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD)  
+Desarrollador de Software · SENA  
+[Tecnólogo en Gestión de Redes de Datos · SENA](https://zajuna.sena.edu.co/zajuna/course/view.php?id=77571)
