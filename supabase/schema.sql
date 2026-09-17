@@ -21,9 +21,12 @@ create table if not exists public.chat_messages (
   id bigint generated always as identity primary key,
   visitor_id uuid not null,
   alias text not null check (char_length(alias) between 1 and 24),
+  gender text not null default 'anon' check (gender in ('boy','girl','anon')),
   message text not null check (char_length(message) between 1 and 500),
   created_at timestamptz not null default now()
 );
+
+alter table public.chat_messages add column if not exists gender text not null default 'anon';
 
 create index if not exists idx_visitor_sessions_last_seen on public.visitor_sessions(last_seen);
 create index if not exists idx_chat_messages_created_at on public.chat_messages(created_at desc);
@@ -68,5 +71,6 @@ create trigger trg_limit_chat_rate
 before insert on public.chat_messages
 for each row execute function private.limit_chat_rate();
 
+-- El historial del chat se conserva en la base de datos. No existe una limpieza automática por antigüedad.
 -- Las Edge Functions devuelven únicamente estadísticas agregadas y chat sin visitor_id.
 -- No se almacenan ni se publican IPs o ubicaciones precisas.
