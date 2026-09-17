@@ -21,7 +21,15 @@ jobs:
           node --check directory.js
           node --check ui.js
           node --check atlas-v2.js
+          node --check atlas-copy.js
+          node --check community.js
+          node --check sw.js
           node --check scripts/update-radar.mjs
           node --check scripts/validate-data.mjs
+          node --check scripts/security-smoke.mjs
       - name: Validar datos
         run: node scripts/validate-data.mjs
+      - name: Validar seguridad comunitaria
+        run: node scripts/security-smoke.mjs
+      - name: Validar manifiesto PWA
+        run: node -e "JSON.parse(require('fs').readFileSync('manifest.webmanifest','utf8')); console.log('Manifest OK')"

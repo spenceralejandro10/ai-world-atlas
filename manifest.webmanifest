@@ -1,0 +1,18 @@
+{
+  "name": "DS · AI World Atlas",
+  "short_name": "AI Atlas",
+  "description": "Atlas mundial para descubrir, comparar y entender ecosistemas, modelos y aplicaciones de inteligencia artificial.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#0f70d8",
+  "icons": [
+    {
+      "src": "assets/atlas-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
