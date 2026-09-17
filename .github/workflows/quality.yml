@@ -1,0 +1,27 @@
+name: Validar AI World Atlas
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Verificar sintaxis JavaScript
+        run: |
+          node --check app.js
+          node --check ranking.js
+          node --check specialties.js
+          node --check directory.js
+          node --check ui.js
+          node --check atlas-v2.js
+          node --check scripts/update-radar.mjs
+          node --check scripts/validate-data.mjs
+      - name: Validar datos
+        run: node scripts/validate-data.mjs
