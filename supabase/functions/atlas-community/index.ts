@@ -3,62 +3,148 @@ import { createClient } from 'https://esm.sh/@supabase/supabase-js@2'
 const ALLOWED_ORIGINS = new Set([
   'https://spenceralejandro10.github.io',
   'http://localhost:5500',
-  'http://127.0.0.1:5500'
+  'http://127.0.0.1:5500',
+  'http://localhost:8000',
+  'http://127.0.0.1:8000'
 ])
+const MAX_BODY_BYTES = 8192
+const ACTIONS = new Set(['stats','like','messages','send','topics','topic_replies','create_topic','reply','report'])
 
 function corsHeaders(req:Request){
   const origin=req.headers.get('origin')||''
-  const allowOrigin=ALLOWED_ORIGINS.has(origin)?origin:'https://spenceralejandro10.github.io'
+  const allowed=ALLOWED_ORIGINS.has(origin)
   return {
-    'content-type':'application/json',
-    'access-control-allow-origin':allowOrigin,
+    'content-type':'application/json; charset=utf-8',
+    ...(allowed?{'access-control-allow-origin':origin}:{}),
     'access-control-allow-headers':'authorization, x-client-info, apikey, content-type',
     'access-control-allow-methods':'POST, OPTIONS',
+    'cache-control':'no-store',
+    'x-content-type-options':'nosniff',
     'vary':'origin'
   }
 }
+function json(req:Request,payload:unknown,status=200){return new Response(JSON.stringify(payload),{status,headers:corsHeaders(req)})}
 function validUuid(v:string){return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(v)}
-function cleanText(v:unknown,max:number){return String(v??'').replace(/[\u0000-\u001F\u007F]/g,' ').trim().slice(0,max)}
+function positiveId(v:unknown){const n=Number(v);return Number.isSafeInteger(n)&&n>0?n:null}
+function cleanText(v:unknown,max:number){return String(v??'').normalize('NFKC').replace(/[\u0000-\u001F\u007F\u202A-\u202E\u2066-\u2069]/g,' ').replace(/\s{3,}/g,'  ').trim().slice(0,max)}
+function cleanAlias(v:unknown){return cleanText(v,24).replace(/[<>{}\[\]\\/"'`]/g,'').trim().slice(0,24)}
 function cleanGender(v:unknown){const g=String(v||'anon');return g==='boy'||g==='girl'?g:'anon'}
+function unsafeContent(v:string){
+  const patterns=[
+    /<\s*\/?\s*(script|iframe|object|embed|svg|math)\b/i,
+    /javascript\s*:/i,
+    /data\s*:\s*text\/html/i,
+    /\bon[a-z]{3,}\s*=/i,
+    /\beval\s*\(/i,
+    /\bnew\s+Function\s*\(/i,
+    /\bdocument\s*\.\s*(cookie|write|location)\b/i,
+    /\bwindow\s*\.\s*location\b/i,
+    /\bunion\s+(?:all\s+)?select\b/i,
+    /;\s*(?:drop|alter|truncate|create)\s+(?:table|database|schema|function|extension)\b/i,
+    /;\s*(?:insert\s+into|update\s+[a-z0-9_]+\s+set|delete\s+from)\b/i,
+    /(?:'|")\s*(?:or|and)\s+(?:1\s*=\s*1|'[^']*'\s*=\s*'[^']*'|"[^"]*"\s*=\s*"[^"]*")/i
+  ]
+  return patterns.some((p)=>p.test(v))
+}
+function validatePublicText(v:unknown,max:number,min=1){const text=cleanText(v,max);if(text.length<min)return {ok:false as const,error:'empty_content'};if(unsafeContent(text))return {ok:false as const,error:'unsafe_content'};return {ok:true as const,text}}
+function rateStatus(error:unknown){return String((error as any)?.message||'').includes('rate_limited')}
 
 Deno.serve(async(req)=>{
-  const headers=corsHeaders(req)
-  if(req.method==='OPTIONS')return new Response('ok',{headers})
-  if(req.method!=='POST')return new Response(JSON.stringify({error:'method_not_allowed'}),{status:405,headers})
+  const origin=req.headers.get('origin')||''
+  if(req.method==='OPTIONS'){
+    if(origin&&!ALLOWED_ORIGINS.has(origin))return json(req,{error:'origin_not_allowed'},403)
+    return new Response('ok',{headers:corsHeaders(req)})
+  }
+  if(req.method!=='POST')return json(req,{error:'method_not_allowed'},405)
+  if(origin&&!ALLOWED_ORIGINS.has(origin))return json(req,{error:'origin_not_allowed'},403)
+  const contentType=req.headers.get('content-type')||''
+  if(!contentType.toLowerCase().includes('application/json'))return json(req,{error:'json_required'},415)
+  const declared=Number(req.headers.get('content-length')||0)
+  if(declared>MAX_BODY_BYTES)return json(req,{error:'payload_too_large'},413)
+
   const client=createClient(Deno.env.get('SUPABASE_URL')!,Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!)
   try{
-    const body=await req.json();const action=String(body?.action||'stats')
+    const raw=await req.text()
+    if(new TextEncoder().encode(raw).length>MAX_BODY_BYTES)return json(req,{error:'payload_too_large'},413)
+    let body:any
+    try{body=JSON.parse(raw||'{}')}catch{return json(req,{error:'invalid_json'},400)}
+    const action=String(body?.action||'stats')
+    if(!ACTIONS.has(action))return json(req,{error:'unknown_action'},400)
+
     if(action==='stats'){
       const onlineSince=new Date(Date.now()-120000).toISOString()
-      const [visitors,online,likes,continents]=await Promise.all([
+      const [visitors,online,likes,continents,topics]=await Promise.all([
         client.from('visitor_sessions').select('*',{count:'exact',head:true}),
         client.from('visitor_sessions').select('*',{count:'exact',head:true}).gt('last_seen',onlineSince),
         client.from('site_likes').select('*',{count:'exact',head:true}),
-        client.from('visitor_sessions').select('continent').range(0,9999)
+        client.from('visitor_sessions').select('continent').range(0,9999),
+        client.from('forum_topics').select('*',{count:'exact',head:true})
       ])
-      if(visitors.error||online.error||likes.error||continents.error)throw new Error('stats_failed')
+      if(visitors.error||online.error||likes.error||continents.error||topics.error)throw new Error('stats_failed')
       const counts:Record<string,number>={};for(const row of continents.data||[]){const c=String(row.continent||'Desconocido');counts[c]=(counts[c]||0)+1}
       const totalGeo=Math.max(1,Object.values(counts).reduce((a,b)=>a+b,0))
       const geo=Object.entries(counts).map(([continent,n])=>({continent,percentage:Math.round((n/totalGeo)*1000)/10})).sort((a,b)=>b.percentage-a.percentage)
-      return new Response(JSON.stringify({visitors_total:visitors.count||0,visitors_online:online.count||0,likes_total:likes.count||0,geo}),{headers})
+      return json(req,{visitors_total:visitors.count||0,visitors_online:online.count||0,likes_total:likes.count||0,topics_total:topics.count||0,geo})
     }
     if(action==='like'){
-      const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return new Response(JSON.stringify({error:'invalid_visitor'}),{status:400,headers})
+      const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return json(req,{error:'invalid_visitor'},400)
       const {error}=await client.from('site_likes').insert({visitor_id:visitorId});if(error&&error.code!=='23505')throw error
-      return new Response(JSON.stringify({ok:true}),{headers})
+      return json(req,{ok:true})
     }
     if(action==='messages'){
       const before=cleanText(body?.before,64);let query=client.from('chat_messages').select('id,alias,gender,message,created_at').order('created_at',{ascending:false}).limit(50)
       if(before&&!Number.isNaN(Date.parse(before)))query=query.lt('created_at',before)
       const {data,error}=await query;if(error)throw error
-      return new Response(JSON.stringify({messages:data||[],has_more:(data||[]).length===50}),{headers})
+      return json(req,{messages:data||[],has_more:(data||[]).length===50})
     }
     if(action==='send'){
-      const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return new Response(JSON.stringify({error:'invalid_visitor'}),{status:400,headers})
-      const alias=cleanText(body?.alias,24)||'Visitante',message=cleanText(body?.message,500),gender=cleanGender(body?.gender);if(!message)return new Response(JSON.stringify({error:'empty_message'}),{status:400,headers})
-      const {data,error}=await client.from('chat_messages').insert({visitor_id:visitorId,alias,gender,message}).select('id,alias,gender,message,created_at').single();if(error){const rate=String(error.message||'').includes('rate_limited');return new Response(JSON.stringify({error:rate?'rate_limited':'send_failed'}),{status:rate?429:400,headers})}
-      return new Response(JSON.stringify({ok:true,message:data}),{headers})
+      const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return json(req,{error:'invalid_visitor'},400)
+      const alias=cleanAlias(body?.alias)||'Visitante',gender=cleanGender(body?.gender),check=validatePublicText(body?.message,500)
+      if(!check.ok)return json(req,{error:check.error},check.error==='unsafe_content'?422:400)
+      const {data,error}=await client.from('chat_messages').insert({visitor_id:visitorId,alias,gender,message:check.text}).select('id,alias,gender,message,created_at').single()
+      if(error)return json(req,{error:rateStatus(error)?'rate_limited':'send_failed'},rateStatus(error)?429:400)
+      return json(req,{ok:true,message:data})
     }
-    return new Response(JSON.stringify({error:'unknown_action'}),{status:400,headers})
-  }catch(_e){return new Response(JSON.stringify({error:'community_unavailable'}),{status:500,headers})}
+    if(action==='topics'){
+      const {data,error}=await client.from('forum_topics').select('id,alias,gender,title,body,created_at,forum_replies(count)').order('created_at',{ascending:false}).limit(30)
+      if(error)throw error
+      const topics=(data||[]).map((row:any)=>({...row,reply_count:Number(row.forum_replies?.[0]?.count||0),forum_replies:undefined}))
+      return json(req,{topics})
+    }
+    if(action==='topic_replies'){
+      const topicId=positiveId(body?.topic_id);if(!topicId)return json(req,{error:'invalid_topic'},400)
+      const [{data:topic,error:topicError},{data:replies,error:replyError}]=await Promise.all([
+        client.from('forum_topics').select('id,alias,gender,title,body,created_at').eq('id',topicId).maybeSingle(),
+        client.from('forum_replies').select('id,topic_id,alias,gender,message,created_at').eq('topic_id',topicId).order('created_at',{ascending:true}).limit(100)
+      ])
+      if(topicError||replyError)throw topicError||replyError
+      if(!topic)return json(req,{error:'topic_not_found'},404)
+      return json(req,{topic,replies:replies||[]})
+    }
+    if(action==='create_topic'){
+      const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return json(req,{error:'invalid_visitor'},400)
+      const alias=cleanAlias(body?.alias)||'Visitante',gender=cleanGender(body?.gender),title=validatePublicText(body?.title,100,4),text=validatePublicText(body?.body,600,8)
+      if(!title.ok||!text.ok){const err=!title.ok?title.error:text.error;return json(req,{error:err},err==='unsafe_content'?422:400)}
+      const {data,error}=await client.from('forum_topics').insert({visitor_id:visitorId,alias,gender,title:title.text,body:text.text}).select('id,alias,gender,title,body,created_at').single()
+      if(error)return json(req,{error:rateStatus(error)?'rate_limited':'topic_failed'},rateStatus(error)?429:400)
+      return json(req,{ok:true,topic:data})
+    }
+    if(action==='reply'){
+      const visitorId=String(body?.visitor_id||''),topicId=positiveId(body?.topic_id);if(!validUuid(visitorId)||!topicId)return json(req,{error:'invalid_request'},400)
+      const alias=cleanAlias(body?.alias)||'Visitante',gender=cleanGender(body?.gender),check=validatePublicText(body?.message,400,2)
+      if(!check.ok)return json(req,{error:check.error},check.error==='unsafe_content'?422:400)
+      const {data,error}=await client.from('forum_replies').insert({topic_id:topicId,visitor_id:visitorId,alias,gender,message:check.text}).select('id,topic_id,alias,gender,message,created_at').single()
+      if(error)return json(req,{error:rateStatus(error)?'rate_limited':'reply_failed'},rateStatus(error)?429:400)
+      return json(req,{ok:true,reply:data})
+    }
+    if(action==='report'){
+      const visitorId=String(body?.visitor_id||''),contentId=positiveId(body?.content_id),contentType=String(body?.content_type||'')
+      if(!validUuid(visitorId)||!contentId||!['chat','topic','reply'].includes(contentType))return json(req,{error:'invalid_report'},400)
+      const reason=cleanText(body?.reason,120)||'Contenido reportado'
+      const {error}=await client.from('content_reports').insert({visitor_id:visitorId,content_type:contentType,content_id:contentId,reason})
+      if(error&&error.code!=='23505')throw error
+      return json(req,{ok:true})
+    }
+    return json(req,{error:'unknown_action'},400)
+  }catch(_e){return json(req,{error:'community_unavailable'},500)}
 })
