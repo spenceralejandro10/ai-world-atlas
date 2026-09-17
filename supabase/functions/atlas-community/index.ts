@@ -48,8 +48,10 @@ Deno.serve(async(req)=>{
       return new Response(JSON.stringify({ok:true}),{headers})
     }
     if(action==='messages'){
-      const {data,error}=await client.from('chat_messages').select('id,alias,gender,message,created_at').order('created_at',{ascending:false}).limit(100);if(error)throw error
-      return new Response(JSON.stringify({messages:data||[]}),{headers})
+      const before=cleanText(body?.before,64);let query=client.from('chat_messages').select('id,alias,gender,message,created_at').order('created_at',{ascending:false}).limit(50)
+      if(before&&!Number.isNaN(Date.parse(before)))query=query.lt('created_at',before)
+      const {data,error}=await query;if(error)throw error
+      return new Response(JSON.stringify({messages:data||[],has_more:(data||[]).length===50}),{headers})
     }
     if(action==='send'){
       const visitorId=String(body?.visitor_id||'');if(!validUuid(visitorId))return new Response(JSON.stringify({error:'invalid_visitor'}),{status:400,headers})
