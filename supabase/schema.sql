@@ -1,7 +1,8 @@
--- AI World Atlas — esquema propuesto para estadísticas agregadas, likes y chat.
--- No almacena ni expone IPs, ubicación precisa ni identificadores internos en vistas públicas.
+-- AI World Atlas — backend dedicado para estadísticas, likes y chat.
+-- Las tablas no se exponen directamente al navegador. El acceso público pasa por Edge Functions.
 
 create extension if not exists pgcrypto;
+create schema if not exists private;
 
 create table if not exists public.visitor_sessions (
   visitor_id uuid primary key,
@@ -32,24 +33,19 @@ alter table public.visitor_sessions enable row level security;
 alter table public.site_likes enable row level security;
 alter table public.chat_messages enable row level security;
 
--- Reaplicar políticas de forma idempotente.
+-- No existen políticas públicas: atlas-visit y atlas-community usan la service role dentro del servidor.
 drop policy if exists "public insert likes" on public.site_likes;
 drop policy if exists "public insert chat" on public.chat_messages;
+revoke all on public.visitor_sessions from anon, authenticated;
+revoke all on public.site_likes from anon, authenticated;
+revoke all on public.chat_messages from anon, authenticated;
 
--- El navegador puede registrar un like, pero no leer los identificadores de otros visitantes.
-create policy "public insert likes" on public.site_likes for insert to anon with check (true);
-
--- El navegador puede enviar chat; la lectura pública se hace mediante una vista sin visitor_id.
-create policy "public insert chat" on public.chat_messages for insert to anon with check (
-  char_length(alias) between 1 and 24 and char_length(message) between 1 and 500
-);
-
--- Control simple anti-spam: un mensaje cada 3 segundos por visitor_id.
-create or replace function public.limit_chat_rate()
+-- Anti-spam del chat. Se mantiene fuera del esquema público expuesto por PostgREST.
+create or replace function private.limit_chat_rate()
 returns trigger
 language plpgsql
 security definer
-set search_path=public
+set search_path=public,private
 as $$
 begin
   if exists (
@@ -65,41 +61,12 @@ begin
 end;
 $$;
 
+revoke all on function private.limit_chat_rate() from public, anon, authenticated;
+
 drop trigger if exists trg_limit_chat_rate on public.chat_messages;
 create trigger trg_limit_chat_rate
 before insert on public.chat_messages
-for each row execute function public.limit_chat_rate();
+for each row execute function private.limit_chat_rate();
 
--- Vistas públicas: solo agregados o campos no sensibles.
-create or replace view public.public_stats as
-select
-  (select count(*) from public.visitor_sessions) as visitors_total,
-  (select count(*) from public.visitor_sessions where last_seen > now() - interval '2 minutes') as visitors_online,
-  (select count(*) from public.site_likes) as likes_total;
-
-create or replace view public.continent_stats as
-with counts as (
-  select continent, count(*)::numeric as n
-  from public.visitor_sessions
-  group by continent
-), total as (select greatest(coalesce(sum(n),0),1) as n from counts)
-select counts.continent, round((counts.n / total.n) * 100, 1) as percentage
-from counts cross join total
-order by counts.n desc;
-
-create or replace view public.public_chat_messages as
-select alias,message,created_at
-from public.chat_messages
-where created_at > now() - interval '7 days'
-order by created_at desc;
-
-revoke all on public.visitor_sessions from anon;
-revoke all on public.site_likes from anon;
-revoke all on public.chat_messages from anon;
-grant insert on public.site_likes to anon;
-grant insert on public.chat_messages to anon;
-grant select on public.public_stats to anon;
-grant select on public.continent_stats to anon;
-grant select on public.public_chat_messages to anon;
-
--- Limpieza recomendada: una tarea programada puede borrar chat_messages con más de 7 días.
+-- Las Edge Functions devuelven únicamente estadísticas agregadas y chat sin visitor_id.
+-- No se almacenan ni se publican IPs o ubicaciones precisas.
