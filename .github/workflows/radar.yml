@@ -1,0 +1,35 @@
+name: Actualizar Radar IA
+
+on:
+  schedule:
+    - cron: '17 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Actualizar noticias
+        run: node scripts/update-radar.mjs
+      - name: Validar JSON
+        run: node -e "const fs=require('fs');const x=JSON.parse(fs.readFileSync('data/news.json'));if(!Array.isArray(x.items)||x.items.length<1)process.exit(1)"
+      - name: Publicar cambios si existen
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "Sin cambios en Radar IA"
+            exit 0
+          fi
+          git config user.name "ai-world-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "Actualizar Radar IA automáticamente"
+          git push
