@@ -23,7 +23,7 @@ jobs:
           node --check atlas-v2.js
           node --check atlas-copy.js
           node --check site-polish.js
-          node --check community-v2.js
+          node --check community-v3.js
           node --check sw.js
           node --check scripts/update-radar.mjs
           node --check scripts/validate-data.mjs
