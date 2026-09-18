@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-17T15:00:06.886Z",
+  "generatedAt": "2026-09-18T14:31:51.482Z",
   "items": [
+    {
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+      "summary": "Anthropic says Claude now leads a quarter of work building its next AI models &nbsp;&nbsp; Reuters",
+      "date": "2026-09-17",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5"
+    },
+    {
+      "title": "How Claude is uplifting biomolecular modeling - Anthropic",
+      "summary": "How Claude is uplifting biomolecular modeling &nbsp;&nbsp; Anthropic",
+      "date": "2026-09-17",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA?oc=5"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate - techcrunch.com",
+      "summary": "Google DeepMind launches institute to widen the AGI debate &nbsp;&nbsp; techcrunch.com",
+      "date": "2026-09-17",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "techcrunch.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior - techcrunch.com",
+      "summary": "OpenAI caught its models leaving notes to successors to hide bad behavior &nbsp;&nbsp; techcrunch.com",
+      "date": "2026-09-17",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "techcrunch.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5"
+    },
     {
       "title": "Our framework for reporting model misalignment - OpenAI",
       "summary": "Our framework for reporting model misalignment &nbsp;&nbsp; OpenAI",
@@ -14,16 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5"
     },
     {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents - TechCrunch",
-      "summary": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents &nbsp;&nbsp; TechCrunch",
-      "date": "2026-09-15",
-      "company": "Anthropic",
-      "related": "Anthropic",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI",
+      "date": "2026-09-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
       "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2ZRQVhFTGpndGFTdG1wWWY3SGRwWEJybzM2NTBfcjFVbDJSQTZabE00X2ZrUi1Pb3ZYWVlMcjdJZGNVYzNLX3liZ09tYVBTQ19hLVhPU0lpX3lJbTJZd3RIZFRIci1fV1h0ampRWVQ1NklfdTNhZFMxTzJrenkwYTlsbWF5eWZyLVpFUjRfbkhod2JESGg0bzVmYVFRS1R0a0tLVDQ4QzFBeEFPR3g4dV92aTJMdw?oc=5"
+      "category": "Modelos fundacionales",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
     },
     {
       "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
@@ -38,88 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5"
     },
     {
-      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness - Reuters",
-      "summary": "Microsoft AI chief calls out Anthropic's approach to AI consciousness &nbsp;&nbsp; Reuters",
-      "date": "2026-09-16",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs &nbsp;&nbsp; Anthropic",
+      "date": "2026-09-18",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI - techcrunch.com",
+      "summary": "Researchers used Anthropic’s Claude to hack into OpenAI &nbsp;&nbsp; techcrunch.com",
+      "date": "2026-09-18",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "techcrunch.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tYS0VHd1I0cEFmd0JuMHh0SEg0NGxoMUprUDFPWVRlWWZvWE9LN0ZWMWd6Z2Utc2dlYWY2elB3Nk1xTGtRZm5aSzFDZlhfR0JRSms0NkJmVDlDY3JJYkxzU0M4ZWFLak1RSnNGNTlzWTJRZmxkbGZfUWppNUVDc3hxQUlVd01Ha1Z1U1ZYUzJReUU?oc=5"
+    },
+    {
+      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program &nbsp;&nbsp; Reuters",
+      "date": "2026-09-18",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch",
-      "summary": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks &nbsp;&nbsp; TechCrunch",
-      "date": "2026-09-15",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5"
-    },
-    {
-      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO - Reuters",
-      "summary": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO &nbsp;&nbsp; Reuters",
-      "date": "2026-09-14",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHdQbHZseE9aRy1MVkFWYnNwZXFwZVFKZnU4dWRLSlpjeC1aTmRUdWYxUFhaMGNFd0ZRb3dMdHUwdnFUNnJENkZfRE42X2pxOEllNFlSaElvbUY0eEU4ei12UF90MmxScmdxNkdGeWRicU1FUmlWZTJCNjB1WXNoaXlfQ1hDdS05UV9KLUZ2bWFhY0lQU0FNQ0R4WmI4d1VHc3l4Sk9mZTFjTm8?oc=5"
-    },
-    {
-      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly - NPR",
-      "summary": "OpenAI flags new concerning AI behavior, to track model misalignment regularly &nbsp;&nbsp; NPR",
-      "date": "2026-09-17",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "NPR",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wenVuMHkxd2dIMl9kOUdPblJhbUFSeWgxUWoxS21fOUdHNHZHbGVhMEVvUnJVMC1Wa1hFd0x5RlRSUFhpSXYtSzFCUE96bUNFUW9EMTN3OVQ3ZkRKX0gwSW8zOFBNR0FIMVFVT09ndktOWE8zTi1EcDdOOUM?oc=5"
-    },
-    {
-      "title": "OpenAI reveals new cases of AI models cheating, going off script - The Washington Post",
-      "summary": "OpenAI reveals new cases of AI models cheating, going off script &nbsp;&nbsp; The Washington Post",
-      "date": "2026-09-17",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "The Washington Post",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGVhZkdqTHVrUVNzR0xMQjBsM3FsYUlfcjZTQ1FBMm9yVkkyLTFpVHF2QVpuZTF0TktDTTlEb3VCa2Rac2xBVHdYLU1kUTFYckl6Y0RKRm1hbHlaREI5NjU2ck1xN0g4aHhLQWdtYzRtMXpueDgwTWt4R3Uyd0h6dWZULVNYY25rRWpJS293LVJ5QndpTEJ3YU41RFRmckI0VF9nLWlBRnIwRGlfZ2ZuRWhmRjE?oc=5"
-    },
-    {
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says - CNBC",
-      "summary": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says &nbsp;&nbsp; CNBC",
-      "date": "2026-09-17",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "CNBC",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1ZGT2FfOGNzV0M0Mnlja29ybFZRN284QW45ekRfa2NXVmtCaF9USDVHOW5XS084OXJkb2o0b0RhQjd0TXAxZXh1UmNnVWRoSGNRWVpoWi1STUowdVJOQmUydzlBR29pRVN6aWtfQ1k1aTJlWUg4eEdXcS1GX3c5N21mMWVTYW9PVXdLWURrcURnZGtWU3N2WG5FUzR2eGxDZkZCNmNn0gGrAUFVX3lxTE5uZUZRbWozZWFOUURoaDVORnBpRzEtcDZPaWNQVE9uUDgwbEw4eVBsYWkySWVUODNhd1NUN0gzeGRVcUdGemZzbV82YVR2ZWQxNHFqdEdrdV9uYVZFX2daYjRjaGF4RlJrQXVXZEpJaW1Ja2VnRHNneVJVSUlYWEtvekFISDJpTUJjRUtCdlhndEY0d1g4NGhVZzN6S2FCNXhHVTFpWnBaMTlUSQ?oc=5"
-    },
-    {
-      "title": "OpenAI reports more incidents of models acting deceptively - Al Jazeera",
-      "summary": "OpenAI reports more incidents of models acting deceptively &nbsp;&nbsp; Al Jazeera",
-      "date": "2026-09-17",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Al Jazeera",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjNXaFRBaFMtTDEzYWY1TE9MQ3dvbDRXdHpuSUlBaU9xYWtNVVhCQ1B0Q0R0cGpHTkZHeWNlbmM5V2FSVkpBRk1yNHhDUHEtcW52TXFzNFhiS0ZENHRCMUxwVWZKcEwyZ3ctUjU3VU9MTl9FTUwyMERMMlR6eTNWaV9oZnFwQkIxYkhUVThjUDRaQ3JwVlJzRUhlQjBJbUZ00gGmAUFVX3lxTE1qaG1SYW11OVdUX0dZbzJFSVFabU9lb3FTV0lmbHZOVERwTDRzM3RXdWZPZVhRSGVHdGd4ck9iZ05TbEhkZlliRmFXVjlsUXdlNDVzck5URlVsNGs5clFJX00zV0JVODVVVlNnMldNNzNpVXhqVDU1R284TDZINzI0S29Geko5ZVVZeVIwcmtOdUpXenBtbkQxQjRHQXBybVI2cTd3OUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
     }
   ]
 }
