@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-24T15:06:46.328Z",
+  "generatedAt": "2026-09-25T15:16:25.379Z",
   "items": [
     {
-      "title": "OpenAI agents hacked an Australian government website in search for data - The Verge",
-      "summary": "OpenAI agents hacked an Australian government website in search for data &nbsp;&nbsp; The Verge",
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
+      "summary": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports &nbsp;&nbsp; Reuters",
       "date": "2026-09-24",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "The Verge",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWRGR2E1R3RFR0J0VGloMDdQVWN4eWhDY2lDWWM2VzJWNk5sYnBUWWh2aGdaMjNJVTQwM000N3NxVUtrTnVjeFJiak5seG81TF9UVzg5Z2M1VVVKS1l1eTc5Rzd3UDRLYUVBSkd5ZkxITUVfcVJpQzlMeV9xckgyWXo5S2NvamJTT3lwX1lIMEc4MmJLOVlZSk04OWJiVDAzTFcyMU5RZFpmd1hGb0tUTjg4dkc2OHduSDRGNXlmaXRaVkhjSWQ2UmNnOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtLMFdBNFUtNmZrdmFoakY5SE1CNUFBRWt3TXVhTlZ1c0lLTGRQU3N1SzYzQ090dU9sNXBxVTZ5MUp0X21rY2tjd01xOGpRLWRDbmxSQ08weElDcG5ERU9yQ0ZJZXVWd2MzNGVHMi1xLThIWkhnWkdSc09XNEk5ZG05aG84U1ZuTTVsMnY3N2NLSTlYX3V0cm05UFAxZ2JUazV5c0tobk1kZnExSVRBMnZTdHhVMmd5WDRkTw?oc=5"
     },
     {
       "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - OpenAI",
@@ -26,6 +26,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5"
     },
     {
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
+      "date": "2026-09-23",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+    },
+    {
       "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
       "summary": "Anthropic, OpenAI call for Australia to relax ban on training of AI models &nbsp;&nbsp; Reuters",
       "date": "2026-09-22",
@@ -38,16 +50,16 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5"
     },
     {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance - TechCrunch",
-      "summary": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance &nbsp;&nbsp; TechCrunch",
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
+      "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic",
       "date": "2026-09-22",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTlYeWZ3SHNvN2l6UTNLNmNKRGcydDZDNUNmZjBCMVVVRlV1RUFxSnl1WVc5a0J0eFhhQll3RC1ReHp6OEpOcUtYbElSeHFIQ2lDOWhDbi1VbDQzTW5vQy1fS05oVTczT3VMcWlLTWZBYWhHTFVYV2pDWmZOQW5NVjhxVG00Q1JYZXFTTlVUQXRNbU9XcFBYRGoxNkNwSmkzYnVvb0xNOFowdS1l?oc=5"
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5"
     },
     {
       "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
@@ -84,18 +96,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
-    },
-    {
-      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise - Reuters",
-      "summary": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise &nbsp;&nbsp; Reuters",
-      "date": "2026-09-18",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5"
     },
     {
       "title": "Our framework for reporting model misalignment - OpenAI",
