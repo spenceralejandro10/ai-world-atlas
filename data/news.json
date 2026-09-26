@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-25T15:16:25.379Z",
+  "generatedAt": "2026-09-26T14:29:52.931Z",
   "items": [
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - techcrunch.com",
+      "summary": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge &nbsp;&nbsp; techcrunch.com",
+      "date": "2026-09-25",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Imagen",
+      "source": "techcrunch.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5"
+    },
     {
       "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
       "summary": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports &nbsp;&nbsp; Reuters",
@@ -36,18 +48,6 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
-    },
-    {
-      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
-      "summary": "Anthropic, OpenAI call for Australia to relax ban on training of AI models &nbsp;&nbsp; Reuters",
-      "date": "2026-09-22",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5"
     },
     {
       "title": "Introducing Claude Opus 5.5 - Anthropic",
@@ -98,6 +98,18 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
     },
     {
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+      "summary": "Anthropic says Claude now leads a quarter of work building its next AI models &nbsp;&nbsp; Reuters",
+      "date": "2026-09-17",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5"
+    },
+    {
       "title": "Our framework for reporting model misalignment - OpenAI",
       "summary": "Our framework for reporting model misalignment &nbsp;&nbsp; OpenAI",
       "date": "2026-09-16",
@@ -108,18 +120,6 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5"
-    },
-    {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law - TechCrunch",
-      "summary": "Australia to investigate if OpenAI hack of government health website broke the law &nbsp;&nbsp; TechCrunch",
-      "date": "2026-09-24",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3hrSERXdUpBc19CYVRhWmhPNU80d1JkOF9uci1TeGJRcHlCOURaRV80cWZhMVZjWC1GMWFFaG91SktrLTVqUjgyOUR5NkozVkstcllPYl90Unl2YXY1UklCNkNNNVhqMkF3amRYZWdaZi1weGZkcU9EZ25BUDdVX3hBamxYdW5lWW9sd2JGcWxVWnVXRFdQMVFST25ZV0FodjREOFNMdFRWNk1ma0czWEpwZGFueVlp?oc=5"
     }
   ]
 }
