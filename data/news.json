@@ -1,29 +1,41 @@
 {
-  "generatedAt": "2026-09-27T15:10:02.552Z",
+  "generatedAt": "2026-09-28T18:10:19.531Z",
   "items": [
     {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - OpenAI",
-      "summary": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models &nbsp;&nbsp; OpenAI",
-      "date": "2026-09-23",
+      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters",
+      "summary": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit &nbsp;&nbsp; Reuters",
+      "date": "2026-09-28",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5"
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
-      "date": "2026-09-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - techcrunch.com",
+      "summary": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner &nbsp;&nbsp; techcrunch.com",
+      "date": "2026-09-28",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+      "source": "techcrunch.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5"
+    },
+    {
+      "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
+      "summary": "Nvidia releases AI safety software it says could have stopped Hugging Face hack &nbsp;&nbsp; Reuters",
+      "date": "2026-09-28",
+      "company": "NVIDIA",
+      "related": "NVIDIA",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5"
     },
     {
       "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
@@ -74,9 +86,21 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5"
     },
     {
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - anthropic.com",
+      "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills &nbsp;&nbsp; anthropic.com",
+      "date": "2026-09-25",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "anthropic.com",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5"
+    },
+    {
       "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
       "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse &nbsp;&nbsp; Reuters",
-      "date": "2026-09-14",
+      "date": "2026-09-13",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
@@ -86,40 +110,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
-      "summary": "Sam Altman’s remarks at the United Nations Security Council &nbsp;&nbsp; OpenAI",
-      "date": "2026-09-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5"
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
-      "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue &nbsp;&nbsp; The Guardian",
-      "date": "2026-09-27",
+      "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known - Tom's Hardware",
+      "summary": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known &nbsp;&",
+      "date": "2026-09-28",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Programación y agentes",
-      "source": "The Guardian",
+      "source": "Tom's Hardware",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5"
-    },
-    {
-      "title": "OpenAI pauses training of latest models after agents probed U.S. government sites in unexpected ways - Los Angeles Times",
-      "summary": "OpenAI pauses training of latest models after agents probed U.S. government sites in unexpected ways &nbsp;&nbsp; Los Angeles Times",
-      "date": "2026-09-27",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Los Angeles Times",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnJlT0VjMlhfME40NFk4ZXV0NXkzOGpzS2I1T3pDZF9yYUdSTVJPZGszcUhRNnZ3VWkycHllSi1RWEdDMWRlMzZUVWtzVk91cGhscndZMWU4eUJzWktZMV9FX1RVdFRSazhPVnlxRGhXUXZ5dDJMZnVONTlMbFpMT2E3b2xJOUZfTTdFdjVSTFphNzcwSEstZGxsODRVOFZkMTNCNWJYLW0xLWJnbks4LUhHUmVzM2VZZzVnd1pPUnhFb3p5T3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTk9xM3BhUGd6WHh5WC1hY3AzLVhOaFlUTUhEektzNGppUzExaV85RmNDQlRLYzdhM2RCSTIzWHJCY3ppX3cyY0VKWDhvM0ktNDhEZXdyYnRnS01wYW5WcE5kb0ZmOHZnS0xxOHBxZl90enVaOGZBMHp6UGhPSFBnQmRVam9CbUJCQTFfWUJQN2FndUJkclRraXVxUGlIdWRDOU1kaDdyOEhEQV9uM00temVrdnFRZk9WRUYxckhYdDVJNkFZVWhhT01teXhQTV91dXpoWHhQNmlIem1OckJhMXlBNTJXWXU2OVBZYkhhaUJ6U2FsTS1zcEpmdks3eDZNM1YzSlkxdmM1SzIwdE1ZbkNrdWMtUmNHOGdBc1hmOGh3NE5WOGJnVDFyRDllSF95MFNrb3VLZmlqV3lWLUt6Nm9NRnJHM2ltdGhrelQ3aVdabkVlMHdTU3RWa0Q1Q0VPWFNWeGdJcXlGRTBlQm1TSFMyejcza2pHNHNLMThsUVRDQ1IxbEhmTGxMZmZnWEdtZXg5M2swSmdWUm1LdmVRT1hFWGJZSzFKM1NCRHQ2YTFJajdkQmlySFRzVjUtSkE?oc=5"
     }
   ]
 }
