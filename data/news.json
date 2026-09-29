@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-28T18:10:19.531Z",
+  "generatedAt": "2026-09-29T16:31:11.256Z",
   "items": [
+    {
+      "title": "EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company - Reuters",
+      "summary": "EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company &nbsp;&nbsp; Reuters",
+      "date": "2026-09-29",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1mZHNtdF9aRFc4Wm5FOXRnb1lXYm1vUGtYcHNsQS1GbnZyUV8xNHZhbDFuMjZFN3I5Mm9MeEc1NVh0Y1hoWFM4R2RmVVJybGpIZjczcmxVYlFkOUk3VFN4NzdvUnNkZ0hQUWt4cGpjTTlOSmVuLWdqNms0bktvU3BvZ1NjQlVjRGd0U1BxN0ZDT296bmthZ0tsSDlfTkZfV3hQYWlzZ2U0TGRseFVJeUsyS05XRmZP?oc=5"
+    },
+    {
+      "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
+      "summary": "OpenAI shelves new AI model release over safety concerns &nbsp;&nbsp; Reuters",
+      "date": "2026-09-28",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5"
+    },
     {
       "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters",
       "summary": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit &nbsp;&nbsp; Reuters",
@@ -14,16 +38,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5"
     },
     {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - techcrunch.com",
-      "summary": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner &nbsp;&nbsp; techcrunch.com",
+      "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters",
+      "summary": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO &nbsp;&nbsp; Reuters",
       "date": "2026-09-28",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "techcrunch.com",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5"
     },
     {
       "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
@@ -38,9 +62,21 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5"
     },
     {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch",
+      "summary": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner &nbsp;&nbsp; TechCrunch",
+      "date": "2026-09-28",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5"
+    },
+    {
       "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
       "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; Reuters",
-      "date": "2026-09-22",
+      "date": "2026-09-21",
       "company": "Alibaba",
       "related": "Alibaba",
       "region": "China / Asia",
@@ -62,64 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5"
     },
     {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
-      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; Reuters",
-      "date": "2026-09-19",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
-    },
-    {
-      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise - Reuters",
-      "summary": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise &nbsp;&nbsp; Reuters",
-      "date": "2026-09-18",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5"
-    },
-    {
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - anthropic.com",
-      "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills &nbsp;&nbsp; anthropic.com",
-      "date": "2026-09-25",
+      "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters",
+      "summary": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing &nbsp;&nbsp; Reuters",
+      "date": "2026-09-29",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "anthropic.com",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5"
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5"
     },
     {
-      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
-      "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse &nbsp;&nbsp; Reuters",
-      "date": "2026-09-13",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing - The Verge",
+      "summary": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing &nbsp;&nbsp; The Verge",
+      "date": "2026-09-29",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "category": "IA",
+      "source": "The Verge",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5"
-    },
-    {
-      "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known - Tom's Hardware",
-      "summary": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known &nbsp;&",
-      "date": "2026-09-28",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Tom's Hardware",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTk9xM3BhUGd6WHh5WC1hY3AzLVhOaFlUTUhEektzNGppUzExaV85RmNDQlRLYzdhM2RCSTIzWHJCY3ppX3cyY0VKWDhvM0ktNDhEZXdyYnRnS01wYW5WcE5kb0ZmOHZnS0xxOHBxZl90enVaOGZBMHp6UGhPSFBnQmRVam9CbUJCQTFfWUJQN2FndUJkclRraXVxUGlIdWRDOU1kaDdyOEhEQV9uM00temVrdnFRZk9WRUYxckhYdDVJNkFZVWhhT01teXhQTV91dXpoWHhQNmlIem1OckJhMXlBNTJXWXU2OVBZYkhhaUJ6U2FsTS1zcEpmdks3eDZNM1YzSlkxdmM1SzIwdE1ZbkNrdWMtUmNHOGdBc1hmOGh3NE5WOGJnVDFyRDllSF95MFNrb3VLZmlqV3lWLUt6Nm9NRnJHM2ltdGhrelQ3aVdabkVlMHdTU3RWa0Q1Q0VPWFNWeGdJcXlGRTBlQm1TSFMyejcza2pHNHNLMThsUVRDQ1IxbEhmTGxMZmZnWEdtZXg5M2swSmdWUm1LdmVRT1hFWGJZSzFKM1NCRHQ2YTFJajdkQmlySFRzVjUtSkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGozS1RLYVRDa0VGUzZJMU9YRGc5SE9tcXYycWloVWNGaWhNRU1tMHc2a0RTRTR1WEZKY3R5TXM5QUhIUzltYjJjT1NrMzU5c0NVWkhvZUlrVUVYYnI0dTF5cU03MWNKSmNkd0E1aHVZSUxfV25XNExjTWgya256VHlmWHA4enpsLW1MOFZOTm5zY3lkSGN2ZDBhUjdpSmx0eUxN?oc=5"
     }
   ]
 }
