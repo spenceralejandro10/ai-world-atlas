@@ -1,51 +1,63 @@
 {
-  "generatedAt": "2026-10-03T14:43:35.242Z",
+  "generatedAt": "2026-10-04T15:22:48.868Z",
   "items": [
     {
-      "title": "Google announces Gemini 4 flagship AI model after months of delays - reuters.com",
-      "summary": "Google announces Gemini 4 flagship AI model after months of delays &nbsp;&nbsp; reuters.com",
+      "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
+      "summary": "Google announces Gemini 4 flagship AI model after months of delays &nbsp;&nbsp; Reuters",
       "date": "2026-09-30",
       "company": "Google DeepMind",
       "related": "Google DeepMind",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "reuters.com",
+      "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5"
     },
     {
-      "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - reuters.com",
-      "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; reuters.com",
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over' - Reuters",
+      "summary": "OpenAI safety employee quits, says 'time for trial and error is over' &nbsp;&nbsp; Reuters",
+      "date": "2026-10-03",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm - The Verge",
+      "summary": "An OpenAI safety employee has quit and is sounding the alarm &nbsp;&nbsp; The Verge",
+      "date": "2026-10-03",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "The Verge",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3gyellMbU9hTVZTNnpPSjlwXzNCYTBhSjUwdFBQTmhSVjFTMmRSclM5N1BaMHBjRWtQejdpaV92YjlZVnVmT3JnaERLN2pvbUJTSWRKZ0p2WGFKTHlBZm1NNGU3aEotN0wzSUIzQlZBejZvblI1NlJpWHY3UjdKVjhaUlp0NEVQZ1FjYW1lNDByalZBUjlvaTQ2SlpKN28?oc=5"
+    },
+    {
+      "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
+      "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; Reuters",
       "date": "2026-09-21",
       "company": "Alibaba",
       "related": "Alibaba",
       "region": "China / Asia",
       "category": "Modelos fundacionales",
-      "source": "reuters.com",
+      "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
     },
     {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports - TechCrunch",
-      "summary": "OpenAI cuts ties with 3 safety researchers, WSJ reports &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-01",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzdCYW9BX1hfRWV4Ykh4Y1lPTF9VNTF4ckFXYUI1SzJIOUN6UkdaSEFsb1lRc1VIQ0FEbjZRVGMyekYxVVY5NmJBSnFIQkU3X3k4aHVTQ0hPcVZCNnlBNmdFUzBLZlpIRDl5MThNN3d0TFprbktxYUxNVjVwMFlSOFVQa3BLRm10WllwTlZVN0FsZEF1ckVEYw?oc=5"
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - reuters.com",
-      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; reuters.com",
+      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
+      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; Reuters",
       "date": "2026-09-19",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "reuters.com",
+      "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
     },
@@ -62,14 +74,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajlVWXFucHQ1N0V1YWFvYV9pbjVOeWtIM1MweWJhaEhFVE5BWUhxUUJBdWZyeVRielNhWk1OdzAtZVJuRHBuYW9nV0NVcVd2dDJIMVBHeDltS1NhQ0swejBqSjVsWkw5RzdiZnlHejZjNkRWMjlYMXcwcnlvOTIzaVRsQW5XdnZFTHhpUFR2WWVyZTR4TTVwTDZQOVFSUDM0T0ZqRDFVLWdMbENha0pTT2IyNmpkQm8?oc=5"
     },
     {
-      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - reuters.com",
-      "summary": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs &nbsp;&nbsp; reuters.com",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Reuters",
+      "summary": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs &nbsp;&nbsp; Reuters",
       "date": "2026-09-30",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Imagen",
-      "source": "reuters.com",
+      "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5"
     },
@@ -86,40 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5"
     },
     {
-      "title": "EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril - reuters.com",
-      "summary": "EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril &nbsp;&nbsp; reuters.com",
-      "date": "2026-09-30",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "reuters.com",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDlCdU9Zek0tNW81WHEzdzdUU0FMa0hrWGVlaS13ZWMtVGRRTXNqYkZuaWV0WVZlSFR0Nm1vblBwd3h4ZFI3OWdXYnlJclNxM20wUHNORlB6T3lsV0k1R1pWSlpnVmozUTM4SjhqTlNHQ3B4VlJRNUdhNFoyUzV5MWZ0azM5YzR6b211N0hJMnVKdktaR2Rv?oc=5"
-    },
-    {
-      "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia - reuters.com",
-      "summary": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia &nbsp;&nbsp; reuters.com",
+      "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia - Reuters",
+      "summary": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia &nbsp;&nbsp; Reuters",
       "date": "2026-09-30",
       "company": "DeepSeek",
       "related": "DeepSeek",
       "region": "China / Asia",
       "category": "Infraestructura",
-      "source": "reuters.com",
+      "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5"
     },
     {
-      "title": "China's AI agents can lie and scheme - just like their US rivals - reuters.com",
-      "summary": "China's AI agents can lie and scheme - just like their US rivals &nbsp;&nbsp; reuters.com",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities - Anthropic",
+      "summary": "GLM-5.3 and the spread of advanced cyber capabilities &nbsp;&nbsp; Anthropic",
       "date": "2026-09-29",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Programación y agentes",
-      "source": "reuters.com",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5"
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5"
     }
   ]
 }
