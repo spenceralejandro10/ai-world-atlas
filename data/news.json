@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-05T19:18:10.239Z",
+  "generatedAt": "2026-10-06T16:49:10.966Z",
   "items": [
+    {
+      "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
+      "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals &nbsp;&nbsp; Reuters",
+      "date": "2026-10-06",
+      "company": "Mistral",
+      "related": "Mistral",
+      "region": "Europa",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals - TechCrunch",
+      "summary": "Mistral’s new 1T model aims to leapfrog closed and open rivals &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-06",
+      "company": "Mistral",
+      "related": "Mistral",
+      "region": "Europa",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
+    },
     {
       "title": "OpenAI sued for trademark infringement over 'Astra' AI model - Reuters",
       "summary": "OpenAI sued for trademark infringement over 'Astra' AI model &nbsp;&nbsp; Reuters",
@@ -14,16 +38,40 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcW56VDk1TEhMTEdHUmg1RlB0cVIza055bEQ1OWJsLTk3OEFySUJNTzhSQ0Q0bTloYnBGN2VXaTBQUmxnNEd0UUtuc0NEeDR1UjZjWERWeEZURlpNOHVfQUo3TnBKaVF6ekJ4SDktZEdUQW5XUThabHMwdXVlRWl2ZHd0OVNHdDF2UmlRZ2ZWVjREeXhmZ3l3RXZUV3Z2MnNZQlFrOEdaUllrdkNGWmNv?oc=5"
     },
     {
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work - Reuters",
-      "summary": "Synopsys, OpenAI strike deal to develop AI model for chip design work &nbsp;&nbsp; Reuters",
-      "date": "2026-09-30",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - Reuters",
+      "summary": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models &nbsp;&nbsp; Reuters",
+      "date": "2026-10-05",
+      "company": "NVIDIA",
+      "related": "NVIDIA",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5"
+    },
+    {
+      "title": "Our approach to EU text provenance rules - OpenAI",
+      "summary": "Our approach to EU text provenance rules &nbsp;&nbsp; OpenAI",
+      "date": "2026-10-05",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost - TechCrunch",
+      "summary": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-05",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5"
     },
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
@@ -38,30 +86,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
     },
     {
-      "title": "Introducing Claude Opus 5.5 - Anthropic",
-      "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic",
-      "date": "2026-09-22",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Anthropic",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm - The Verge",
-      "summary": "An OpenAI safety employee has quit and is sounding the alarm &nbsp;&nbsp; The Verge",
-      "date": "2026-10-03",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "The Verge",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3gyellMbU9hTVZTNnpPSjlwXzNCYTBhSjUwdFBQTmhSVjFTMmRSclM5N1BaMHBjRWtQejdpaV92YjlZVnVmT3JnaERLN2pvbUJTSWRKZ0p2WGFKTHlBZm1NNGU3aEotN0wzSUIzQlZBejZvblI1NlJpWHY3UjdKVjhaUlp0NEVQZ1FjYW1lNDByalZBUjlvaTQ2SlpKN28?oc=5"
-    },
-    {
       "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
       "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; Reuters",
       "date": "2026-09-21",
@@ -72,18 +96,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
-    },
-    {
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
-      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; Anthropic",
-      "date": "2026-10-02",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Anthropic",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5"
     },
     {
       "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
@@ -98,28 +110,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
     },
     {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president - techcrunch.com",
-      "summary": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president &nbsp;&nbsp; techcrunch.com",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president - TechCrunch",
+      "summary": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president &nbsp;&nbsp; TechCrunch",
       "date": "2026-10-01",
       "company": "SpaceXAI / xAI",
       "related": "SpaceXAI / xAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajlVWXFucHQ1N0V1YWFvYV9pbjVOeWtIM1MweWJhaEhFVE5BWUhxUUJBdWZyeVRielNhWk1OdzAtZVJuRHBuYW9nV0NVcVd2dDJIMVBHeDltS1NhQ0swejBqSjVsWkw5RzdiZnlHejZjNkRWMjlYMXcwcnlvOTIzaVRsQW5XdnZFTHhpUFR2WWVyZTR4TTVwTDZQOVFSUDM0T0ZqRDFVLWdMbENha0pTT2IyNmpkQm8?oc=5"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "summary": "Gemini 4 Argon: our next era of frontier intelligence &nbsp;&nbsp; blog.google",
-      "date": "2026-09-30",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5"
     }
   ]
 }
