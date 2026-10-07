@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-06T16:49:10.966Z",
+  "generatedAt": "2026-10-07T17:25:43.388Z",
   "items": [
+    {
+      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "summary": "Anthropic opens its most powerful AI models to more security teams &nbsp;&nbsp; Reuters",
+      "date": "2026-10-06",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5"
+    },
     {
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals &nbsp;&nbsp; Reuters",
@@ -50,6 +62,30 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5"
     },
     {
+      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work - Reuters",
+      "summary": "Synopsys, OpenAI strike deal to develop AI model for chip design work &nbsp;&nbsp; Reuters",
+      "date": "2026-09-30",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5"
+    },
+    {
+      "title": "Sharing AI progress in mathematics - OpenAI",
+      "summary": "Sharing AI progress in mathematics &nbsp;&nbsp; OpenAI",
+      "date": "2026-10-06",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5"
+    },
+    {
       "title": "Our approach to EU text provenance rules - OpenAI",
       "summary": "Our approach to EU text provenance rules &nbsp;&nbsp; OpenAI",
       "date": "2026-10-05",
@@ -74,18 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
-      "date": "2026-09-22",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
-    },
-    {
       "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
       "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; Reuters",
       "date": "2026-09-21",
@@ -96,30 +120,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
-      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; Reuters",
-      "date": "2026-09-19",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president - TechCrunch",
-      "summary": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-01",
-      "company": "SpaceXAI / xAI",
-      "related": "SpaceXAI / xAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajlVWXFucHQ1N0V1YWFvYV9pbjVOeWtIM1MweWJhaEhFVE5BWUhxUUJBdWZyeVRielNhWk1OdzAtZVJuRHBuYW9nV0NVcVd2dDJIMVBHeDltS1NhQ0swejBqSjVsWkw5RzdiZnlHejZjNkRWMjlYMXcwcnlvOTIzaVRsQW5XdnZFTHhpUFR2WWVyZTR4TTVwTDZQOVFSUDM0T0ZqRDFVLWdMbENha0pTT2IyNmpkQm8?oc=5"
     }
   ]
 }
