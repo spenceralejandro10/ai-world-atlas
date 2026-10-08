@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-07T17:25:43.388Z",
+  "generatedAt": "2026-10-08T17:24:22.183Z",
   "items": [
+    {
+      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
+      "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO &nbsp;&nbsp; Reuters",
+      "date": "2026-10-07",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5"
+    },
     {
       "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
       "summary": "Anthropic opens its most powerful AI models to more security teams &nbsp;&nbsp; Reuters",
@@ -74,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5"
     },
     {
+      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
+      "summary": "GPT-6 and Intelligent UI for everyone &nbsp;&nbsp; OpenAI",
+      "date": "2026-10-07",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5"
+    },
+    {
       "title": "Sharing AI progress in mathematics - OpenAI",
       "summary": "Sharing AI progress in mathematics &nbsp;&nbsp; OpenAI",
       "date": "2026-10-06",
@@ -96,30 +120,6 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost - TechCrunch",
-      "summary": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-05",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5"
-    },
-    {
-      "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters",
-      "summary": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% &nbsp;&nbsp; Reuters",
-      "date": "2026-09-21",
-      "company": "Alibaba",
-      "related": "Alibaba",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
     }
   ]
 }
