@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-09T16:59:43.789Z",
+  "generatedAt": "2026-10-10T15:52:42.611Z",
   "items": [
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
+      "summary": "An Anthropic AI model sent a false homicide tip to Philadelphia police &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5"
+    },
     {
       "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
       "summary": "Anthropic launches free AI security scans for open-source projects &nbsp;&nbsp; The Verge",
@@ -12,18 +24,6 @@
       "source": "The Verge",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference - TechCrunch",
-      "summary": "Anthropic changes usage policy to ban model abuse and election interference &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-08",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2twUlZwTmdvdVBobFlHazd4UnRGZ0Rqam1GQm15S184aDJ2ZzVUaWJXSElGNHFzSGFGU1R3X0d2T0ZmV0V0UXdlTUVwb28zeldaYzVNeWoxT19GTnpmUEl4eXB4UWlETElkNDZ5dGJqTWJSMWZIbHFwZ2FzMzBBTy1qcUIxZ2lGNFJ4NFo5c19HRDRUWXk0X2YyRUJXeHU5Z0Y0QXczY0plaUdtT0NF?oc=5"
     },
     {
       "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
@@ -62,40 +62,52 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
-      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - Reuters",
-      "summary": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models &nbsp;&nbsp; Reuters",
-      "date": "2026-10-05",
-      "company": "NVIDIA",
-      "related": "NVIDIA",
+      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
+      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents &nbsp;&nbsp; Reuters",
+      "date": "2026-10-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
+      "category": "IA",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5"
     },
     {
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work - Reuters",
-      "summary": "Synopsys, OpenAI strike deal to develop AI model for chip design work &nbsp;&nbsp; Reuters",
-      "date": "2026-09-30",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide - The Verge",
+      "summary": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide &nbsp;&nbsp; The Verge",
+      "date": "2026-10-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "category": "IA",
+      "source": "The Verge",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2oxbWxkMUR2TjBuNVVYek5KYWxMdlRpV3R6ZTc5LVJvWHBqdVVZaXU1ZDBGRktRMkFHVUF2M3Q2NjJ6X1pHazlXdVpCWHU2TnlWeUpWUXdtLTNtREpqZnFVZVE5RjJvSTFZdThmWFU4cGVMNzdwamNiMWcyT2pWVENuZk4zQTR3cTdhVWFGQ0tLalFXRGVuNF9GQklNY1Y4alFYcTFvQ0thaGJ1bkJNQXd6YjZidw?oc=5"
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations - OpenAI",
-      "summary": "Disrupting AI-enabled “false front” operations &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-08",
+      "title": "OpenAI says it has fired three researchers for violating sensitive information policy - Reuters",
+      "summary": "OpenAI says it has fired three researchers for violating sensitive information policy &nbsp;&nbsp; Reuters",
+      "date": "2026-10-09",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5"
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkJyLTlxV1UzUFZzYVFBejJ0S2NsTVoxb1JRZVdTTHhYaHI5eGQ3MHRaanlOQzBsU0RUXzcwUV9FTHZnUmNGUjRjV1pwTUhHNnVKektQcVFGTHR4YWFZSnNQZjEwcG01dEVBUk1xM285ZDYyQnU0cjRFQXNSLXZzQjZjOHJZVGxibTAzcVdxcmg2cnJNUGd3YVU4NXdCX1ExZzVrbGN4c0NGTnRXUU9YUG9KUHFCRTRqek9Z?oc=5"
+    },
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop - The Verge",
+      "summary": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop &nbsp;&nbsp; The Verge",
+      "date": "2026-10-09",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "The Verge",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkJScG5HUzNIY0FKNkR2RUNWRTd5bGFFZEFLSThucGUwS3huMVYzSE4tUEtZMFpFdHlfU3BuUzZZOFE2SzVkbHZPUlJlMDQtcFFBNFRqM1lIUEN2Z3BWSFU5d0xRYWJoc1BhcEUxY0x5dXhDWTYyU1I4NTh5NWFjX0R2U1ZVSi1YVENua05NcVlLU0s1NzFuVDh3?oc=5"
     },
     {
       "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
@@ -108,18 +120,6 @@
       "source": "The Verge",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5"
-    },
-    {
-      "title": "Sharing AI progress in mathematics - OpenAI",
-      "summary": "Sharing AI progress in mathematics &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-06",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5"
     }
   ]
 }
