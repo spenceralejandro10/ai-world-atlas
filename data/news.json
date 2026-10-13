@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-12T19:48:24.465Z",
+  "generatedAt": "2026-10-13T17:36:09.587Z",
   "items": [
+    {
+      "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns - Reuters",
+      "summary": "AI models may soon self-replicate across smart-home devices, Anthropic warns &nbsp;&nbsp; Reuters",
+      "date": "2026-10-13",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5"
+    },
     {
       "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
       "summary": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI &nbsp;&nbsp; Reuters",
@@ -12,6 +24,18 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5"
+    },
+    {
+      "title": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.” - The Verge",
+      "summary": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.” &nbsp;&nbsp; The Verge",
+      "date": "2026-10-12",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "The Verge",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5"
     },
     {
       "title": "Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead - TechCrunch",
@@ -38,18 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-07",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
-    },
-    {
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals &nbsp;&nbsp; Reuters",
       "date": "2026-10-06",
@@ -74,52 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work - Reuters",
-      "summary": "Synopsys, OpenAI strike deal to develop AI model for chip design work &nbsp;&nbsp; Reuters",
-      "date": "2026-09-30",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5"
-    },
-    {
-      "title": "US reverses course on Britain's testing of AI models, Telegraph says - Reuters",
-      "summary": "US reverses course on Britain's testing of AI models, Telegraph says &nbsp;&nbsp; Reuters",
-      "date": "2026-10-11",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDJvZUFPb2dwVWRONzFpd2RZLVJuLWJSeE1QRHNrYjhTX3l5eGxRaFowem4zUy1heUFEdFBEWHFvaFliWG5lREtrUV9Ob0l0dVpQWDRLLVhQWHFFR3JMbFA2dHE3S1M4NWVjZm51NldZOEFPanJBcHpnZjUzd2ZGQWVmRmFzZkE1WTVPSUIwaEJia2VaNmhuRXZMclFZRzlJcE1XVW9YaFZQVmtzTVR0a3hsZw?oc=5"
-    },
-    {
-      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
-      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents &nbsp;&nbsp; Reuters",
-      "date": "2026-10-09",
+      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
+      "summary": "Anthropic says new safeguards sharply reduce AI distillation attacks &nbsp;&nbsp; Reuters",
+      "date": "2026-10-13",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5"
     },
     {
-      "title": "China AI developers publish safety tests for just 3.6% of model releases, report finds - Reuters",
-      "summary": "China AI developers publish safety tests for just 3.6% of model releases, report finds &nbsp;&nbsp; Reuters",
-      "date": "2026-10-09",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "title": "Anthropic warns AI models could soon copy themselves in small devices - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Anthropic warns AI models could soon copy themselves in small devices &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-13",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Video",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHBQNEJ3X0lTUndEVGc5Zm9UWk9ELWFxSjUwLTcxSERrV2x6RkF0ZEJSNWJfUWd3RHduUlR5aFdjcm9HeVFOSjA3b3VLaVJqeC1jSU5LRGNKRUM2MWpaYzdLVVJuUWtwWllfWWNncDBtS2gtSkVFWEQ4TnRsWkJTenJnSFBrY2JKX21idkNmUQ?oc=5"
+    },
+    {
+      "title": "Anthropic says small AI models could soon be able to copy themselves onto everyday devices - Fortune",
+      "summary": "Anthropic says small AI models could soon be able to copy themselves onto everyday devices &nbsp;&nbsp; Fortune",
+      "date": "2026-10-13",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Fortune",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkZhZFhGT0xoaHUyRy03THJjVlJ4cFl0WUpKTWdqbzZVejdmTmdhbWx2RDB5VDVoX2czeVVPYzBfdEhhWnJROHl1SGpUZDVxSDBwRW5Bc3VVVkVnZDNrYW5DWHVLTjRUdnlUOWlBS1pQbjVjMGc1X1ZmYURwTHZITW41aWRWRHk1RVk4T25R?oc=5"
     }
   ]
 }
