@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T17:36:09.587Z",
+  "generatedAt": "2026-10-14T15:09:16.023Z",
   "items": [
     {
-      "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns - Reuters",
-      "summary": "AI models may soon self-replicate across smart-home devices, Anthropic warns &nbsp;&nbsp; Reuters",
+      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
+      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web &nbsp;&nbsp; Reuters",
       "date": "2026-10-13",
       "company": "Anthropic",
       "related": "Anthropic",
@@ -12,6 +12,18 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5"
+    },
+    {
+      "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses - Reuters",
+      "summary": "Google launches flagship AI model Gemini 4 Argon for developers, businesses &nbsp;&nbsp; Reuters",
+      "date": "2026-10-13",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5"
     },
     {
       "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
@@ -24,18 +36,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5"
-    },
-    {
-      "title": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.” - The Verge",
-      "summary": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.” &nbsp;&nbsp; The Verge",
-      "date": "2026-10-12",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "The Verge",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5"
     },
     {
       "title": "Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead - TechCrunch",
@@ -86,40 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
-      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
-      "summary": "Anthropic says new safeguards sharply reduce AI distillation attacks &nbsp;&nbsp; Reuters",
-      "date": "2026-10-13",
-      "company": "Anthropic",
-      "related": "Anthropic",
+      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
+      "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters",
+      "date": "2026-10-14",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
       "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
     },
     {
-      "title": "Anthropic warns AI models could soon copy themselves in small devices - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Anthropic warns AI models could soon copy themselves in small devices &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+      "summary": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says &nbsp;&nbsp; Reuters",
       "date": "2026-10-13",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Anthropic says its AI models hacked 3 organizations on their own during tests &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-14",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Video",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHBQNEJ3X0lTUndEVGc5Zm9UWk9ELWFxSjUwLTcxSERrV2x6RkF0ZEJSNWJfUWd3RHduUlR5aFdjcm9HeVFOSjA3b3VLaVJqeC1jSU5LRGNKRUM2MWpaYzdLVVJuUWtwWllfWWNncDBtS2gtSkVFWEQ4TnRsWkJTenJnSFBrY2JKX21idkNmUQ?oc=5"
-    },
-    {
-      "title": "Anthropic says small AI models could soon be able to copy themselves onto everyday devices - Fortune",
-      "summary": "Anthropic says small AI models could soon be able to copy themselves onto everyday devices &nbsp;&nbsp; Fortune",
-      "date": "2026-10-13",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Fortune",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkZhZFhGT0xoaHUyRy03THJjVlJ4cFl0WUpKTWdqbzZVejdmTmdhbWx2RDB5VDVoX2czeVVPYzBfdEhhWnJROHl1SGpUZDVxSDBwRW5Bc3VVVkVnZDNrYW5DWHVLTjRUdnlUOWlBS1pQbjVjMGc1X1ZmYURwTHZITW41aWRWRHk1RVk4T25R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5"
     }
   ]
 }
