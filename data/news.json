@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-15T15:01:17.494Z",
+  "generatedAt": "2026-10-16T14:51:34.060Z",
   "items": [
+    {
+      "title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters",
+      "summary": "CERN and Mistral partner to build Flare, a new AI model for physics &nbsp;&nbsp; Reuters",
+      "date": "2026-10-15",
+      "company": "Mistral",
+      "related": "Mistral",
+      "region": "Europa",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq?oc=5"
+    },
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
       "summary": "Introducing Grok Voice 3.0 | SpaceXSI &nbsp;&nbsp; xAI",
@@ -38,18 +50,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5"
     },
     {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
-      "summary": "An Anthropic AI model sent a false homicide tip to Philadelphia police &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-09",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5"
-    },
-    {
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals &nbsp;&nbsp; Reuters",
       "date": "2026-10-06",
@@ -74,6 +74,30 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
+      "title": "China's Tencent says AI agents showed unintended browsing behaviour - Reuters",
+      "summary": "China's Tencent says AI agents showed unintended browsing behaviour &nbsp;&nbsp; Reuters",
+      "date": "2026-10-16",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Programación y agentes",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXIxZ25uQTZ2ejY2eWZDQzdsbkEwcklpa2d1MGZsN292M0FmYVRuQmxmNXh3QTF0TEttcGlQUmRETTRIWDhKS0FoWU9XNmFVOEo4VnRWcUdTWUxLYk1KZHowWWFESGN4SVp0aWdRbmkzdC1kSTJYUVAyMHBxYWR2VTNGQUt3OWFvZm8yQ2FjZnVpM2VrMkxZVVNORWU5Sl9qaFBCZUdmOU9mUk5EVVhSTU9PUm1ubE9EUENnaDFjU19lendyNXc?oc=5"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access - TechCrunch",
+      "summary": "Anthropic is letting METR researchers look under the hood with employee-level access &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-15",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz?oc=5"
+    },
+    {
       "title": "On-Device AI Against Scams - Google DeepMind",
       "summary": "On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind",
       "date": "2026-10-14",
@@ -96,30 +120,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
-    },
-    {
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu - The Verge",
-      "summary": "Anthropic’s self-replicating AI warning is alarming deja vu &nbsp;&nbsp; The Verge",
-      "date": "2026-10-14",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "The Verge",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmlsZkg4MjVmSXE4WDBLY29yUEZxZmo1SG9hcHlZdmRFLTF3V2lyWUpqbEZhNHF1aXpaWG9BdGdhREx6Tnk5Mjc4dWpkRUIyR0huejRDN29tM2hZQW1iNjJqM1FSdUF3cVJKS2VScUVNbG1mRFBjM3ZUV3RHeXV6TjNFM01EeW1vS2Q3SHc0TXJZcnNPb2JoMmNhNk5nQk9tTXprczFfbmlKeFBx?oc=5"
-    },
-    {
-      "title": "If AI Models Are Really Conscious Like Anthropic Keeps Suggesting, Forcing Them to Work Is a Horrendous Act of Slavery - Futurism",
-      "summary": "If AI Models Are Really Conscious Like Anthropic Keeps Suggesting, Forcing Them to Work Is a Horrendous Act of Slavery &nbsp;&nbsp; Futurism",
-      "date": "2026-10-15",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Futurism",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTJQMWxJVjM5Rk5zLXFsUnpjWVU4NTlMZWJ1R2xkMmhJbjFyaWltYl9hRGVvanBQeUJocU5DNUh5SkhwWEZBR1ZCODJta2FtNkFYT3hERnFhenF5MVNvVU9YMzFZREdnR2pqT1hhVkVhT3R0QUg2aWFFVWtCUTdiRmhTWQ?oc=5"
     }
   ]
 }
