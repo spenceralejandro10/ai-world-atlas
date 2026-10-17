@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:51:34.060Z",
+  "generatedAt": "2026-10-17T13:43:34.363Z",
   "items": [
     {
       "title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters",
@@ -24,18 +24,6 @@
       "source": "xAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5"
-    },
-    {
-      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
-      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web &nbsp;&nbsp; Reuters",
-      "date": "2026-10-13",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5"
     },
     {
       "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
@@ -74,6 +62,42 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
+      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports &nbsp;&nbsp; Reuters",
+      "date": "2026-10-16",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says - TechCrunch",
+      "summary": "Replit is no longer working with Anthropic, CEO says &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-16",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them - TechCrunch",
+      "summary": "Elorian’s first AI model wants to reason with images, not just about them &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-16",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Video",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblE4NlZlMF9VNXdkcm53ejFPUjRsRWJLZU11Tm9Hc0ZnWjdvWWFXcUpndjAzQk5leGVHVlZCRWhRZDJjUnFfM2hEeW1jVnZOQk5QZUtZRXVWWV94dDNJSE1iTlZwaHZ0U0lLRUNyb1ZhS1NBRGNERVpnZTRQWl81SWNKcURnekhZZDU2OHpOZDNoRHZSVl9aN2VuRllscUpSREQ3TWYwTjBRQQ?oc=5"
+    },
+    {
       "title": "China's Tencent says AI agents showed unintended browsing behaviour - Reuters",
       "summary": "China's Tencent says AI agents showed unintended browsing behaviour &nbsp;&nbsp; Reuters",
       "date": "2026-10-16",
@@ -96,30 +120,6 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz?oc=5"
-    },
-    {
-      "title": "On-Device AI Against Scams - Google DeepMind",
-      "summary": "On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind",
-      "date": "2026-10-14",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Google DeepMind",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5"
-    },
-    {
-      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
-      "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters",
-      "date": "2026-10-14",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
     }
   ]
 }
