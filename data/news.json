@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-17T13:43:34.363Z",
+  "generatedAt": "2026-10-18T14:01:36.632Z",
   "items": [
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs - TechCrunch",
+      "summary": "Meta launches an open-weight AI model that runs on Macs &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-15",
+      "company": "Meta",
+      "related": "Meta",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlZfb0U3cFViMUxwX19EejMxOTNmczEyTzU1YzZqZGhaTnR6dVFrVnVURUVqbGpENzRRWnViS2RrV0pLUkZxcVd6R01DRUhENmZ0azlMTmhNMEh1VnYwNzZndF9qN29GSHZDWXZQSmFrd19lS3E5STJTekhTaW9ETjhHLTg1R0tMTERPTUpNN1M?oc=5"
+    },
     {
       "title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters",
       "summary": "CERN and Mistral partner to build Flare, a new AI model for physics &nbsp;&nbsp; Reuters",
@@ -38,6 +50,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5"
     },
     {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
+      "summary": "An Anthropic AI model sent a false homicide tip to Philadelphia police &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5"
+    },
+    {
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals &nbsp;&nbsp; Reuters",
       "date": "2026-10-06",
@@ -62,64 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRPN0JQbjJGVUJRTEVyY2ZkblVmcy1BSUtCWGJmeUJWbWxaUGZaTWI3VFhHSWhPNmZsV3JVSHBKV3R1MFlsMWZuMWlMaGU3dURoYUl0MzRKWUdoNEtUNHQ3dDNEcTZrUk5UdVJ0VWxBRGhhaEhpaENxSU1YeVIzU1lBcEZva0ZrUlRGUzVfVjR1SjFMNzZWcENKNFc?oc=5"
     },
     {
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports &nbsp;&nbsp; Reuters",
-      "date": "2026-10-16",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says - TechCrunch",
+      "summary": "Replit makes OpenAI its default over Anthropic, CEO says &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-17",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5"
+    },
+    {
+      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers - Reuters",
+      "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers &nbsp;&nbsp; Reuters",
+      "date": "2026-10-17",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5"
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says - TechCrunch",
-      "summary": "Replit is no longer working with Anthropic, CEO says &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-16",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
+      "summary": "Anthropic says its workforce has become less junior and is spending more time in meetings &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-17",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them - TechCrunch",
-      "summary": "Elorian’s first AI model wants to reason with images, not just about them &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-16",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Video",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblE4NlZlMF9VNXdkcm53ejFPUjRsRWJLZU11Tm9Hc0ZnWjdvWWFXcUpndjAzQk5leGVHVlZCRWhRZDJjUnFfM2hEeW1jVnZOQk5QZUtZRXVWWV94dDNJSE1iTlZwaHZ0U0lLRUNyb1ZhS1NBRGNERVpnZTRQWl81SWNKcURnekhZZDU2OHpOZDNoRHZSVl9aN2VuRllscUpSREQ3TWYwTjBRQQ?oc=5"
-    },
-    {
-      "title": "China's Tencent says AI agents showed unintended browsing behaviour - Reuters",
-      "summary": "China's Tencent says AI agents showed unintended browsing behaviour &nbsp;&nbsp; Reuters",
-      "date": "2026-10-16",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Programación y agentes",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXIxZ25uQTZ2ejY2eWZDQzdsbkEwcklpa2d1MGZsN292M0FmYVRuQmxmNXh3QTF0TEttcGlQUmRETTRIWDhKS0FoWU9XNmFVOEo4VnRWcUdTWUxLYk1KZHowWWFESGN4SVp0aWdRbmkzdC1kSTJYUVAyMHBxYWR2VTNGQUt3OWFvZm8yQ2FjZnVpM2VrMkxZVVNORWU5Sl9qaFBCZUdmOU9mUk5EVVhSTU9PUm1ubE9EUENnaDFjU19lendyNXc?oc=5"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access - TechCrunch",
-      "summary": "Anthropic is letting METR researchers look under the hood with employee-level access &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-15",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5"
     }
   ]
 }
