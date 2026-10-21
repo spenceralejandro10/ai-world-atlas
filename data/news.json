@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-20T15:06:31.983Z",
+  "generatedAt": "2026-10-21T15:14:59.865Z",
   "items": [
+    {
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push - Reuters",
+      "summary": "OpenAI to sell its top models on Google Cloud in latest enterprise push &nbsp;&nbsp; Reuters",
+      "date": "2026-10-21",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+      "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-20",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
+    },
     {
       "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
       "summary": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements &nbsp;&nbsp; Reuters",
@@ -74,52 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5"
     },
     {
-      "title": "Governments, regulators increase scrutiny of China's DeepSeek - Reuters",
-      "summary": "Governments, regulators increase scrutiny of China's DeepSeek &nbsp;&nbsp; Reuters",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate - TechCrunch",
+      "summary": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate &nbsp;&nbsp; TechCrunch",
       "date": "2026-10-20",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5"
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems - TechCrunch",
-      "summary": "US orders federal agencies to remove China’s DeepSeek AI from their systems &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-20",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
       "category": "IA",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNam1tX0RacFh2aXVWaERGQ1AxTThjRDd3RDZoUXU5ZGxrOU1BYWFnMHhqRmwzLVZWb3NkbWhTYTctcUlqaDVLdXpRdmJXSGRvLUtmV2RORHdLU2RFeFFRWVdybTR4V1BUb3l2eUN0MHBfdlJqQmlYVUkxUlByVEgya1piaXJqaUphN0ZrNFY0dFFlSDRya0JoVC0wcC1uSnN1OUZIbUxVRnVodHBFdGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEtaa0V6cXgwMUtObVhKU1JyZEVTSDVyZkthb1pQaHFVN3BjM19rMl9HM25DckVCT1JwcVl0R1RoSG9nNU9PamRvaHlKNHlzMnRlc04zYjU0Z21sMXp2dzBTdm1fdnVEcUtYWHVjamROTF9ZV1c4ZW1wRkx4ZkFRdUpfZDVkbl9ERWRORkFuUktXdlBKblQ5cHF6UEs4WmNmZml4OTVzVUx3RXQ2Nmc?oc=5"
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ - TechCrunch",
-      "summary": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-19",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Programación y agentes",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business - TechCrunch",
+      "summary": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-20",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0U0Z2lRcVh1X1c3MjNTQzN4TGNIZDJWTmo1OEdpb0NNcWJibHVaenVNQ1Exc0UxQnhGNzVsYWIyakY1ZzFsdzY2UHZyaEg1UDhhQVhvTE5rODBEUF8xd3hhOHdfSThlLWhWWE1oc1BkY2xlcE1OWGNQdENYOEJuNWhnOG9nZl9pdjZQRnhCT0RiMGx5ekgwLXpIWTd2cnpad2lNRFpJWHFWblNUdzk0OE1jdVhaaEdaWklZ?oc=5"
-    },
-    {
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems - Reuters",
-      "summary": "US banning Chinese AI DeepSeek from government agency IT systems &nbsp;&nbsp; Reuters",
-      "date": "2026-10-19",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtJNmIzcGdtUF96Zk5qZ1JfRVZJZE9mSnluMVJZMHVXbGpzWUozSVYyVzQ5dldnRU1aMXVEZ2JDOXczRmd0Q01FeDZvVFpyX2phVENGMURyX1VDM0cwd0VyYS1ra0VnYzdxZGFBZkp6VzR1SVRPVkFVYnBUSUNPVHc0OU1FamVXYWh3d0NHeHRKU0w0OE1pcjlfQ09oYXR2N3dycXNXWFFZdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDFvdENpSndjLWtWdVRFSXRYWHJrVzNGTFJkY3pwc0s0eDNMYWxYWkVYZkxfTTJSdE5tdTJYRUctSUszdGt6VG9Jekl6am5JbVI4T1Y3MjRBTUZEOWJTSEhSTnFkYzVHT1RreWZuYmY1a1UweW9TMmlmaEJ3UWR4bEd5TllHVnBfQURXbVNOY0JfdlNMZ2hoZ29zSENFVlNidE9wTXVtem5SVjREMklXeWhqTQ?oc=5"
     }
   ]
 }
