@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-24T14:00:55.971Z",
+  "generatedAt": "2026-10-25T14:22:48.848Z",
   "items": [
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
+      "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-24",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
+    },
     {
       "title": "Securing our frontier model training environment - OpenAI",
       "summary": "Securing our frontier model training environment &nbsp;&nbsp; OpenAI",
@@ -36,6 +48,18 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up - TechCrunch",
+      "summary": "OpenAI makes its Jev competitor widely available as decision model competition heats up &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-22",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDl0aHEyRXI3SGQ4X09saUVHd1VrZFVBbkNXQXlQS0hHV3FwdC0xaEs2T0xyRVNXTlo3cWZKbHZ1MEhsd2pyQUJydWJpRjBTYWlkQUZxZDFySndOdEpUT2YxRm9xR0pIREh0S3NvZjRobERRaHA0ZFhjdTI0NHJfdHo2U1RhRUlodHFrbWtqN0FTMXNXRU1FM1g5aWt5aFRqUXpTelNjdW5wWEQxcHRGV3JrR3NVNXYyX2cyWE16cw?oc=5"
     },
     {
       "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
@@ -96,30 +120,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq?oc=5"
-    },
-    {
-      "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
-      "summary": "Introducing Grok Voice 3.0 | SpaceXSI &nbsp;&nbsp; xAI",
-      "date": "2026-10-14",
-      "company": "xAI",
-      "related": "xAI",
-      "region": "Estados Unidos / Global",
-      "category": "Voz",
-      "source": "xAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5"
-    },
-    {
-      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
-      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web &nbsp;&nbsp; Reuters",
-      "date": "2026-10-13",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5"
     }
   ]
 }
