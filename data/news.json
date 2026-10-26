@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:22:48.848Z",
+  "generatedAt": "2026-10-26T16:47:41.694Z",
   "items": [
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
@@ -14,16 +14,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
     },
     {
-      "title": "Securing our frontier model training environment - OpenAI",
-      "summary": "Securing our frontier model training environment &nbsp;&nbsp; OpenAI",
+      "title": "China's MiniMax completes export registration for open-source, overseas AI model licensing - Reuters",
+      "summary": "China's MiniMax completes export registration for open-source, overseas AI model licensing &nbsp;&nbsp; Reuters",
       "date": "2026-10-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
+      "company": "MiniMax",
+      "related": "MiniMax",
+      "region": "China / Asia",
       "category": "Modelos fundacionales",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5"
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5"
     },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” - TechCrunch",
@@ -38,18 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5"
     },
     {
-      "title": "China's MiniMax completes export registration for open-source, overseas AI model licensing - Reuters",
-      "summary": "China's MiniMax completes export registration for open-source, overseas AI model licensing &nbsp;&nbsp; Reuters",
-      "date": "2026-10-23",
-      "company": "MiniMax",
-      "related": "MiniMax",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up - TechCrunch",
       "summary": "OpenAI makes its Jev competitor widely available as decision model competition heats up &nbsp;&nbsp; TechCrunch",
       "date": "2026-10-22",
@@ -60,42 +48,6 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDl0aHEyRXI3SGQ4X09saUVHd1VrZFVBbkNXQXlQS0hHV3FwdC0xaEs2T0xyRVNXTlo3cWZKbHZ1MEhsd2pyQUJydWJpRjBTYWlkQUZxZDFySndOdEpUT2YxRm9xR0pIREh0S3NvZjRobERRaHA0ZFhjdTI0NHJfdHo2U1RhRUlodHFrbWtqN0FTMXNXRU1FM1g5aWt5aFRqUXpTelNjdW5wWEQxcHRGV3JrR3NVNXYyX2cyWE16cw?oc=5"
-    },
-    {
-      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
-      "summary": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers &nbsp;&nbsp; Google Cloud",
-      "date": "2026-10-21",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Google Cloud",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud - OpenAI",
-      "summary": "OpenAI models are coming to Google Cloud &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-21",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
-      "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-20",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
     },
     {
       "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
@@ -120,6 +72,54 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq?oc=5"
+    },
+    {
+      "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
+      "summary": "Introducing Grok Voice 3.0 | SpaceXSI &nbsp;&nbsp; xAI",
+      "date": "2026-10-14",
+      "company": "xAI",
+      "related": "xAI",
+      "region": "Estados Unidos / Global",
+      "category": "Voz",
+      "source": "xAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5"
+    },
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter - Anthropic",
+      "summary": "AI models may be capable of self-replicating without access to a datacenter &nbsp;&nbsp; Anthropic",
+      "date": "2026-10-12",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5"
+    },
+    {
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race, sources say - Reuters",
+      "summary": "DeepSeek wrapping up $15 billion fundraising to fuel AI race, sources say &nbsp;&nbsp; Reuters",
+      "date": "2026-10-22",
+      "company": "DeepSeek",
+      "related": "DeepSeek",
+      "region": "China / Asia",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5"
+    },
+    {
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian",
+      "summary": "Anthropic’s Claude AI model accessed Georgia voter data in US &nbsp;&nbsp; The Guardian",
+      "date": "2026-10-26",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "The Guardian",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5"
     }
   ]
 }
