@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-27T15:53:12.305Z",
+  "generatedAt": "2026-10-28T16:37:55.194Z",
   "items": [
+    {
+      "title": "Anthropic tells California governor courts should be able to block risky AI models - Reuters",
+      "summary": "Anthropic tells California governor courts should be able to block risky AI models &nbsp;&nbsp; Reuters",
+      "date": "2026-10-28",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5"
+    },
     {
       "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
       "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
@@ -24,6 +36,18 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFN6MDd0bXJNOTIycHhtMnF1Uk1PVjFuaURPbHhYMkdBR1JVbWc2QjkxRVJSYmg4ZzZkQjRGd0ZMaDN6S0RtUXRhTFUxdUJOSzFHWGNjeXd2YmlqN09rZGtfWmQ1XzlIYWFvOFhfSURhYmR4VUJtTnNiZkFXQjBUdlNyMk4xTmVOaHNKVmhPTHNSRERCLS03MG55Q0steWc?oc=5"
+    },
+    {
+      "title": "Introducing GPT-6.1 Terra - OpenAI",
+      "summary": "Introducing GPT-6.1 Terra &nbsp;&nbsp; OpenAI",
+      "date": "2026-10-26",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5"
     },
     {
       "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters",
@@ -74,52 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5"
     },
     {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser - TechCrunch",
-      "summary": "Opera introduces a new web standard to let users deploy AI locally in their browser &nbsp;&nbsp; TechCrunch",
+      "title": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains - Reuters",
+      "summary": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains &nbsp;&nbsp; Reuters",
+      "date": "2026-10-28",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbThIY3MxWUdLN1B6WTRJQVVTNVdUVXJrdmFub0lNakZ1cmY4ajZaMmNTNmgtMlVhZS1zNE5tdkZsRm1CMDhvMGNpYTRObUFKR1JUZHMyOTE1Ukh1VktYVjZvOHpwZ293OVhRb2NWLVllWVVSN2ZiZGRsdXBvRHBfU2NRUzVzUHpjOTI3TFNaM2N4dTNmT3piTlM3UlRaTklYOWpFOUQyNFNyay1TanZja05SZFFLYk9WV3B3Vg?oc=5"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? - TechCrunch",
+      "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? &nbsp;&nbsp; TechCrunch",
       "date": "2026-10-27",
       "company": "",
       "related": "",
       "region": "Global",
-      "category": "IA",
+      "category": "Modelos fundacionales",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZW9MRW9HempOUW9lTTBfYlRRTExoUUpYc0RzTlhDS1ozUUh6WjdSdUVRc1g3XzNJSE1ZcDdiYjMtSnpMX1NaUTBYSG1MYThoSGlOalZWMHRCZU5SYkhEN1Iwamt0VzdLQU9sNEJ2Q2p6a2txSVdPMTRCQldkZG5LMW5WSnJhMHc2a09XcDBCQV9zN09keDR1THMwMVN1cHdEMFYzTXVlQnFyQTlGV2ktbEN2TURyam9GVWc?oc=5"
-    },
-    {
-      "title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters",
-      "summary": "CERN and Mistral partner to build Flare, a new AI model for physics &nbsp;&nbsp; Reuters",
-      "date": "2026-10-15",
-      "company": "Mistral",
-      "related": "Mistral",
-      "region": "Europa",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq?oc=5"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding - OpenAI",
-      "summary": "Working with academic communities to build scientific understanding &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-26",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5"
-    },
-    {
-      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing - Reuters",
-      "summary": "Anthropic discloses month-long training pause, AI security breaches in IPO filing &nbsp;&nbsp; Reuters",
-      "date": "2026-10-26",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Infraestructura",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUlrWDlwMnBvb2RvQ1ZTVHpNdEFETnkycHVyVnlJNDVqdnNJRVo3MTZEZGxfbHFjczk2YmJVc2lqb25kZnZtcDhObmFYZ3BoMmtZUi02ZkNBTFZLMEE1VHE4clRXbWJSQTE3MWNMRFNSNDQ3c0tZeWRTdUZDODEyQWFnRlgwLVdkVnctalBhTEE1SjNQRk04REtWQ2VNOGk0c0ZnS2JvZkNjX3VfSWFaZjNBbExVOEYxS0dSRzc5azFFR3ltb2hqOHNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3pLRFBNeXh6cnEtbC01NVF5SU5oSUZwSGZxa082aWNrT25NbllGYnFDUy1nNW9DOGFpS2xvY2dRbkRNRVdzaVd0NlRSR0M3UGlIX2kzUGwxTnA0X19MQkhfdmd6R3RTQ1FqSG91Q0pvSlF2bGR4VkVBR3JQMEpYUmQ1bjdSamR6clI2cGkzMmJZU2ZOcG81Tjg3WnhtNXRGWDZxU0R3NGVYZGw3Y3cxSFlveFlFbzR2bE1CbjdxM0xoNE1TTUow?oc=5"
     }
   ]
 }
