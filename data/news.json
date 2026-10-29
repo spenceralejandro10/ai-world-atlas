@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-28T16:37:55.194Z",
+  "generatedAt": "2026-10-29T16:56:16.788Z",
   "items": [
+    {
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports &nbsp;&nbsp; Reuters",
+      "date": "2026-10-29",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5"
+    },
+    {
+      "title": "Orange unit signs deal to Mistral's latest AI cybersecurity model - Reuters",
+      "summary": "Orange unit signs deal to Mistral's latest AI cybersecurity model &nbsp;&nbsp; Reuters",
+      "date": "2026-10-29",
+      "company": "Mistral",
+      "related": "Mistral",
+      "region": "Europa",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2RyVFhCQ2RMUVJrcFEyTFlwSHpiakNocEt0ZThqbHJncWxWUWZ3dXRBaGRXb2hQS0RCN3FRZHRpVWpaUVFFdHBPSFVhSm1pYmY5aFVsakd3bXdla0N5X1VzQ05SY1BlMk9iVVFjMldfXy1HdEZQX3NMM0x0ZjN2S3lxbEVuWkE4NWN2YUhURTBubFBnUjMyWU5qTHM2QjVVckxvUmFqN05SN2xXZGt2TjhTOTM?oc=5"
+    },
     {
       "title": "Anthropic tells California governor courts should be able to block risky AI models - Reuters",
       "summary": "Anthropic tells California governor courts should be able to block risky AI models &nbsp;&nbsp; Reuters",
@@ -14,16 +38,40 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5"
     },
     {
-      "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
-      "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
-      "date": "2026-10-27",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus - Reuters",
+      "summary": "Google launches Gemini 4 Carbon AI model with cybersecurity focus &nbsp;&nbsp; Reuters",
+      "date": "2026-10-28",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5"
+    },
+    {
+      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
+      "summary": "Gemini 4 Carbon: our next frontier model &nbsp;&nbsp; blog.google",
+      "date": "2026-10-28",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "blog.google",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying - TechCrunch",
+      "summary": "Anthropic just launched tools to show companies what their AI spending is buying &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-28",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlBbXhmcEdpSXhaQ1YyY0llV1JaU29fZzFvZ2xBdDZzdlEyVWhuR3k4QWpSQ196MXI1SUVVVlBzMER5ZUZHOUF6bVJYZVg5cXh1TTlOdWJWc2I4N0laSmpRNGg1Um1qQ05obkVPRDJiUm9lQks1WFdQdUp1SldtVV9PMnVicVRJcTlUMWQzZDFjbXZqS2lVU3hNeVBCb2FKdXV5YWNjZGdpUmY2TWs0ckxXdHgzZw?oc=5"
     },
     {
       "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing - TechCrunch",
@@ -38,16 +86,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFN6MDd0bXJNOTIycHhtMnF1Uk1PVjFuaURPbHhYMkdBR1JVbWc2QjkxRVJSYmg4ZzZkQjRGd0ZMaDN6S0RtUXRhTFUxdUJOSzFHWGNjeXd2YmlqN09rZGtfWmQ1XzlIYWFvOFhfSURhYmR4VUJtTnNiZkFXQjBUdlNyMk4xTmVOaHNKVmhPTHNSRERCLS03MG55Q0steWc?oc=5"
     },
     {
-      "title": "Introducing GPT-6.1 Terra - OpenAI",
-      "summary": "Introducing GPT-6.1 Terra &nbsp;&nbsp; OpenAI",
-      "date": "2026-10-26",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5"
+      "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
+      "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
+      "date": "2026-10-27",
+      "company": "DeepSeek",
+      "related": "DeepSeek",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
     },
     {
       "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters",
@@ -72,54 +120,6 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
-    },
-    {
-      "title": "China's MiniMax completes export registration for open-source, overseas AI model licensing - Reuters",
-      "summary": "China's MiniMax completes export registration for open-source, overseas AI model licensing &nbsp;&nbsp; Reuters",
-      "date": "2026-10-23",
-      "company": "MiniMax",
-      "related": "MiniMax",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5"
-    },
-    {
-      "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
-      "summary": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements &nbsp;&nbsp; Reuters",
-      "date": "2026-10-19",
-      "company": "MiniMax",
-      "related": "MiniMax",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5"
-    },
-    {
-      "title": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains - Reuters",
-      "summary": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains &nbsp;&nbsp; Reuters",
-      "date": "2026-10-28",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbThIY3MxWUdLN1B6WTRJQVVTNVdUVXJrdmFub0lNakZ1cmY4ajZaMmNTNmgtMlVhZS1zNE5tdkZsRm1CMDhvMGNpYTRObUFKR1JUZHMyOTE1Ukh1VktYVjZvOHpwZ293OVhRb2NWLVllWVVSN2ZiZGRsdXBvRHBfU2NRUzVzUHpjOTI3TFNaM2N4dTNmT3piTlM3UlRaTklYOWpFOUQyNFNyay1TanZja05SZFFLYk9WV3B3Vg?oc=5"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? - TechCrunch",
-      "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean? &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-27",
-      "company": "",
-      "related": "",
-      "region": "Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3pLRFBNeXh6cnEtbC01NVF5SU5oSUZwSGZxa082aWNrT25NbllGYnFDUy1nNW9DOGFpS2xvY2dRbkRNRVdzaVd0NlRSR0M3UGlIX2kzUGwxTnA0X19MQkhfdmd6R3RTQ1FqSG91Q0pvSlF2bGR4VkVBR3JQMEpYUmQ1bjdSamR6clI2cGkzMmJZU2ZOcG81Tjg3WnhtNXRGWDZxU0R3NGVYZGw3Y3cxSFlveFlFbzR2bE1CbjdxM0xoNE1TTUow?oc=5"
     }
   ]
 }
