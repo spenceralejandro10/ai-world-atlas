@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-10-30T16:42:04.207Z",
+  "generatedAt": "2026-10-31T15:44:46.895Z",
   "items": [
-    {
-      "title": "OpenAI says human intent at center of updated AI model guidelines - Reuters",
-      "summary": "OpenAI says human intent at center of updated AI model guidelines &nbsp;&nbsp; Reuters",
-      "date": "2026-10-29",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVJkSkh4RzdFdms2Y0ZpUGFVN0NReFlhbzJYZFlZTHlwZVRMenpJSXVwOW5vNzF2NW5FZldUQ3d4V003Yi13ZWtub0hIanAzdkVBcU5sMmgzSHcwZFg4X1ZnbDlxWjM5WkV4YUdDRGVfdXNvX0JHSkF6UThZdWNkcFRyUEwxQmlrMHFaRDcySTZRZTYzbU95QTJHeXJvUE1XOWluMV9ndw?oc=5"
-    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI - OpenAI",
       "summary": "An updated Model Spec for more capable and beneficial AI &nbsp;&nbsp; OpenAI",
@@ -86,16 +74,16 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5"
     },
     {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying - TechCrunch",
-      "summary": "Anthropic just launched tools to show companies what their AI spending is buying &nbsp;&nbsp; TechCrunch",
+      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
+      "summary": "Gemini 4 Carbon: our next frontier model &nbsp;&nbsp; blog.google",
       "date": "2026-10-28",
-      "company": "Anthropic",
-      "related": "Anthropic",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
       "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlBbXhmcEdpSXhaQ1YyY0llV1JaU29fZzFvZ2xBdDZzdlEyVWhuR3k4QWpSQ196MXI1SUVVVlBzMER5ZUZHOUF6bVJYZVg5cXh1TTlOdWJWc2I4N0laSmpRNGg1Um1qQ05obkVPRDJiUm9lQks1WFdQdUp1SldtVV9PMnVicVRJcTlUMWQzZDFjbXZqS2lVU3hNeVBCb2FKdXV5YWNjZGdpUmY2TWs0ckxXdHgzZw?oc=5"
+      "category": "Modelos fundacionales",
+      "source": "blog.google",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5"
     },
     {
       "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing - TechCrunch",
@@ -110,16 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFN6MDd0bXJNOTIycHhtMnF1Uk1PVjFuaURPbHhYMkdBR1JVbWc2QjkxRVJSYmg4ZzZkQjRGd0ZMaDN6S0RtUXRhTFUxdUJOSzFHWGNjeXd2YmlqN09rZGtfWmQ1XzlIYWFvOFhfSURhYmR4VUJtTnNiZkFXQjBUdlNyMk4xTmVOaHNKVmhPTHNSRERCLS03MG55Q0steWc?oc=5"
     },
     {
-      "title": "Introducing GPT-6.1 Terra - OpenAI",
-      "summary": "Introducing GPT-6.1 Terra &nbsp;&nbsp; OpenAI",
+      "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
+      "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
+      "date": "2026-10-27",
+      "company": "DeepSeek",
+      "related": "DeepSeek",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
+    },
+    {
+      "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters",
+      "summary": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says &nbsp;&nbsp; Reuters",
       "date": "2026-10-26",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5"
+      "company": "Alibaba",
+      "related": "Alibaba",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVNeUo5OThtcHVOdE1HTHhlQjV0TXR0RkVpMEk2Qm1hQjdPNzlkaXZaZU5oX1Y3eFoyUW1FZGZ5YmJOX0d0eGRHUUtRaEtvbzRvcWtOenFzSWowam1ZMlQyTmJleGN3dU1JbVhiemduMnZRY0E0a3U4V1N2bUZhLXBRTXNySFdNeE92S3pPeWRmUDRRd0VLYWRCNklpZ2c2NDhOckpzTE5tbnItcXV5VVE2ajJwRG9UeHFOcWpsNmRqbUh0bVpR?oc=5"
     }
   ]
 }
