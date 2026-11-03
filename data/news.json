@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-02T20:21:45.735Z",
+  "generatedAt": "2026-11-03T17:51:20.509Z",
   "items": [
+    {
+      "title": "Progress on provable inference for large language models - Anthropic",
+      "summary": "Progress on provable inference for large language models &nbsp;&nbsp; Anthropic",
+      "date": "2026-11-03",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5"
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI - OpenAI",
       "summary": "An updated Model Spec for more capable and beneficial AI &nbsp;&nbsp; OpenAI",
@@ -12,18 +24,6 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5"
-    },
-    {
-      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
-      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports &nbsp;&nbsp; Reuters",
-      "date": "2026-10-29",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5"
     },
     {
       "title": "Mistral AI publicly releases Large 4, targets cybersecurity users - Reuters",
@@ -62,18 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2RyVFhCQ2RMUVJrcFEyTFlwSHpiakNocEt0ZThqbHJncWxWUWZ3dXRBaGRXb2hQS0RCN3FRZHRpVWpaUVFFdHBPSFVhSm1pYmY5aFVsakd3bXdla0N5X1VzQ05SY1BlMk9iVVFjMldfXy1HdEZQX3NMM0x0ZjN2S3lxbEVuWkE4NWN2YUhURTBubFBnUjMyWU5qTHM2QjVVckxvUmFqN05SN2xXZGt2TjhTOTM?oc=5"
     },
     {
-      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
-      "summary": "Gemini 4 Carbon: our next frontier model &nbsp;&nbsp; blog.google",
-      "date": "2026-10-28",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5"
-    },
-    {
       "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
       "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
       "date": "2026-10-27",
@@ -98,16 +86,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
     },
     {
-      "title": "China's MiniMax completes export registration for open-source, overseas AI model licensing - Reuters",
-      "summary": "China's MiniMax completes export registration for open-source, overseas AI model licensing &nbsp;&nbsp; Reuters",
-      "date": "2026-10-23",
-      "company": "MiniMax",
-      "related": "MiniMax",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
+      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-02",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5"
     },
     {
       "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
@@ -120,6 +108,18 @@
       "source": "Google Cloud",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+      "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-20",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
     }
   ]
 }
