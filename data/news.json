@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-11-08T16:40:09.411Z",
+  "generatedAt": "2026-11-09T20:43:54.175Z",
   "items": [
     {
-      "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
-      "summary": "Anthropic's models improving nearly twice as fast with help from AI, study finds &nbsp;&nbsp; Reuters",
-      "date": "2026-11-05",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models - The Verge",
+      "summary": "Anthropic launches new Claude Fable and Mythos 5.2 models &nbsp;&nbsp; The Verge",
+      "date": "2026-11-09",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "source": "The Verge",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5"
-    },
-    {
-      "title": "Progress on provable inference for large language models - Anthropic",
-      "summary": "Progress on provable inference for large language models &nbsp;&nbsp; Anthropic",
-      "date": "2026-11-03",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Anthropic",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5"
     },
     {
       "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
@@ -86,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMDFpTC1odkNLZ3AxZk5sMUplMXhyU2MtSll2Z3J6a20tN3p5UjJuTF83T2xaNzlTbDJGQ1J6ckk2TUcyTWVRSUNETjZQbjhBa2R3cHcyQi1CRVJSQ3BmTHBYb1gtT2JNemw3bmt3?oc=5"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
-      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips &nbsp;&nbsp; blog.google",
-      "date": "2026-11-05",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdSQ1BzbGFWajh1Z0VvUHZvN215LXFXa25rRnNRakRIVW9WbkxQTk10N2tJUEZKODd6cXJBWlQ0VWdFd2JWYllfQlh3ZXAyYXRkclQ1M0NXdHNLaUhjSUpCSXFBMElKdDZBQWxGZEJKajhfY1RRbThUeVlJMUkwdlRoR09ZZF90Q1JEekZfN2RKeUVNak1lZmdPSW9hV2g1SGc?oc=5"
-    },
-    {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
       "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. &nbsp;&nbsp; TechCrunch",
       "date": "2026-10-24",
@@ -110,16 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
     },
     {
-      "title": "Accelerating engineering for the physical world - OpenAI",
-      "summary": "Accelerating engineering for the physical world &nbsp;&nbsp; OpenAI",
-      "date": "2026-11-03",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO - Bloomberg.com",
+      "summary": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO &nbsp;&nbsp; Bloomberg.com",
+      "date": "2026-11-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5"
+      "category": "Modelos fundacionales",
+      "source": "Bloomberg.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5"
+    },
+    {
+      "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
+      "summary": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds &nbsp;&nbsp; CNBC",
+      "date": "2026-11-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "CNBC",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5"
+    },
+    {
+      "title": "Anthropic’s Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong? - Gizmodo",
+      "summary": "Anthropic’s Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong? &nbsp;&nbsp; Gizmodo",
+      "date": "2026-11-09",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Gizmodo",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUpwNENsd2F4ZThIYnFmRTZBNk55UFQ1dk1ZdG00REZINnF3ZTRpcThWNFlDY3ZsWUdKZDJmWVZRRWt1UDBfem9zelA5Y2xYWkpuNEpPNHBqaUxxbmp3UUtLQTc1cm1nVjYxNzlDQ1dSZXRCeHoxaGhhNXBiVGdZR0MtaUtvbWV3ejNVemZleHBCd0Q4T2JEVnZ4emp2VExicmdOamtnZVY5N0NmMHRyc2dpY3U?oc=5"
     }
   ]
 }
