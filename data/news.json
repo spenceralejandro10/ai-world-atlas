@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-10T17:50:40.024Z",
+  "generatedAt": "2026-11-11T17:53:31.909Z",
   "items": [
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature - The Verge",
+      "summary": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature &nbsp;&nbsp; The Verge",
+      "date": "2026-11-10",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "The Verge",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
+      "summary": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-10",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5"
+    },
     {
       "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO - Reuters",
       "summary": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO &nbsp;&nbsp; Reuters",
@@ -50,28 +74,40 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
     },
     {
-      "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters",
-      "summary": "Australia to mandate AI breach reporting, create regulator after OpenAI breach &nbsp;&nbsp; Reuters",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time - TechCrunch",
+      "summary": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-11",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0N2OFdtbV9VNWVjZlRCMUVMZFVweGM5VWh0UTlSNDFibkFSNk9SaldWOVhfWk9YV1JpTk5PWHVKaks5T3JadGFkRWNjTTdyVkJQTndvTGFrQlNxUW5ZMGNSQlVaWmZNMlA3Zmw1RkRSRDFJME50bXIxTkJQc19iRHBwaXpQYkl2RDd0VFJEOFVERUdNYlBQdzNFQkh2Vk9tMWhRWA?oc=5"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect - TechCrunch",
+      "summary": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect &nbsp;&nbsp; TechCrunch",
       "date": "2026-11-10",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "Reuters",
+      "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5"
     },
     {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion - TechCrunch",
-      "summary": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion &nbsp;&nbsp; TechCrunch",
+      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
+      "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor &nbsp;&nbsp; Reuters",
       "date": "2026-11-10",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "TechCrunch",
+      "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJNdmJTYXR1eFhPRm5fN2lYY3p4MUt4UWhUM0ZVT2VKZ2xaU3hWMTkzTlFGUEV4bWFlY3Z0dVRhVHpETWhCejlJaFhOQXpvenBqc2ZLa1hkOGVySmZodC1ndjhwS01oM3BfR1pPdGhHdUwxQ19LRjgwc1dPbTFfX2hkVEVNQXdOTUU2VjdZR1N6WS13Z2Y2TzdvNGZrWmRZZ00zRlY2OEpVTkx2V25BQThIRFJUakRIcUVDd2h5NmdlTFRKaUx2ei1PbGplUDl6?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
     },
     {
       "title": "Anthropic's path from AI startup to industry-defining IPO - Reuters",
@@ -84,42 +120,6 @@
       "source": "Reuters",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0R5YUh3ZWFLeEFIWkZaOWRqdUJTVWRveTdmMmpIWDR6enhRam9OX3FzUEpJMkJhUFhHclBKMHFqQldFbW4xRm9seERZNGVpOVVtcW85dWtmckM5czBtcmhzd0hDc1FyV3dmb3luank2MFhHRXNuTkRLU3k5bUFVSU1iRU01b0x3aEMyQm1BcGtmbDg5UXQwWVl0WQ?oc=5"
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
-      "summary": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-29",
-      "company": "Mistral",
-      "related": "Mistral",
-      "region": "Europa",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
-    },
-    {
-      "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters",
-      "summary": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says &nbsp;&nbsp; Reuters",
-      "date": "2026-10-26",
-      "company": "Alibaba",
-      "related": "Alibaba",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVNeUo5OThtcHVOdE1HTHhlQjV0TXR0RkVpMEk2Qm1hQjdPNzlkaXZaZU5oX1Y3eFoyUW1FZGZ5YmJOX0d0eGRHUUtRaEtvbzRvcWtOenFzSWowam1ZMlQyTmJleGN3dU1JbVhiemduMnZRY0E0a3U4V1N2bUZhLXBRTXNySFdNeE92S3pPeWRmUDRRd0VLYWRCNklpZ2c2NDhOckpzTE5tbnItcXV5VVE2ajJwRG9UeHFOcWpsNmRqbUh0bVpR?oc=5"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
-      "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-24",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5"
     }
   ]
 }
