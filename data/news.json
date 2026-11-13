@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-12T18:19:19.553Z",
+  "generatedAt": "2026-11-13T17:44:28.328Z",
   "items": [
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question - TechCrunch",
+      "summary": "Jensen Huang’s exit puts Nvidia’s support for open source in question &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-12",
+      "company": "NVIDIA",
+      "related": "NVIDIA",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ00wRE82ajVPcnM4WGxFRmd0bWdsLWlIdWN0RWxXMmJ6Y1A3b3FxNXRlTGRPWUdKbUZjS2o4U29GNFN0N1ZDLVRlN081RlBYLTVkR0NlQ1ljY01PakVXcGhMQjg0dGhPSWVqRUdKN0VBR05HNjVVOGVOOUNTM3V5UEhWMnhYdWRNZDgtVXNhZ0hLNmxvMU44eXhKWHFmR1ZnQ3FUZw?oc=5"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+      "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows &nbsp;&nbsp; blog.google",
+      "date": "2026-11-12",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "blog.google",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
+    },
+    {
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+      "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 &nbsp;&nbsp; Anthropic",
+      "date": "2026-11-10",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+    },
     {
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
       "summary": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth &nbsp;&nbsp; Google DeepMind",
@@ -12,30 +48,6 @@
       "source": "Google DeepMind",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
-    },
-    {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns - TechCrunch",
-      "summary": "Anthropic releases new Mythos and Fable models amid RSI concerns &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-09",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2Yta1hDZm1QakE4S2RXZTd0UXR0N2V5QVdtdFNxQVBZQW9XVklvODB3WGR1Wmc3Vk5tV1VoX1ltVHVEd0liM2Fka1Q2NS1nRVdMSWZKLVJQTUd6Wm9xd3JWWGlwX2M3Mkl2cjlIS0pSdUFmZEdWaWtkQnItbmRvaVRudDFnVXdGMmY4Vi1aLU9ma2RDM2VWd2loMGI3aE1i?oc=5"
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models - The Verge",
-      "summary": "Anthropic launches new Claude Fable and Mythos 5.2 models &nbsp;&nbsp; The Verge",
-      "date": "2026-11-09",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "The Verge",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5"
     },
     {
       "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
@@ -50,6 +62,30 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
     },
     {
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters",
+      "date": "2026-11-12",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5"
+    },
+    {
+      "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters",
+      "summary": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents &nbsp;&nbsp; Reuters",
+      "date": "2026-11-12",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5"
+    },
+    {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect - TechCrunch",
       "summary": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect &nbsp;&nbsp; TechCrunch",
       "date": "2026-11-10",
@@ -60,18 +96,6 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5"
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
-      "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor &nbsp;&nbsp; Reuters",
-      "date": "2026-11-10",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
     },
     {
       "title": "Gemini 4 Carbon is now available - blog.google",
@@ -86,40 +110,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5"
     },
     {
-      "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters",
-      "summary": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says &nbsp;&nbsp; Reuters",
-      "date": "2026-10-26",
-      "company": "Alibaba",
-      "related": "Alibaba",
-      "region": "China / Asia",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
+      "summary": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity &nbsp;&nbsp; TechCrunch",
+      "date": "2026-10-29",
+      "company": "Mistral",
+      "related": "Mistral",
+      "region": "Europa",
       "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVNeUo5OThtcHVOdE1HTHhlQjV0TXR0RkVpMEk2Qm1hQjdPNzlkaXZaZU5oX1Y3eFoyUW1FZGZ5YmJOX0d0eGRHUUtRaEtvbzRvcWtOenFzSWowam1ZMlQyTmJleGN3dU1JbVhiemduMnZRY0E0a3U4V1N2bUZhLXBRTXNySFdNeE92S3pPeWRmUDRRd0VLYWRCNklpZ2c2NDhOckpzTE5tbnItcXV5VVE2ajJwRG9UeHFOcWpsNmRqbUh0bVpR?oc=5"
-    },
-    {
-      "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study - Fierce Pharma",
-      "summary": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study &nbsp;&nbsp; Fierce Pharma",
-      "date": "2026-11-12",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Fierce Pharma",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5"
-    },
-    {
-      "title": "Meta Muse and Gemini Spark: What are personal AI agents and their risks - Business Standard",
-      "summary": "Meta Muse and Gemini Spark: What are personal AI agents and their risks &nbsp;&nbsp; Business Standard",
-      "date": "2026-11-12",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Business Standard",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkVDZHhDSHZ0UHlvWkdFWGs5eTVlMHRqZ1dPRFNJQ2Q0N3l2bHFLNEIzTHZJVUswWnU2MXJvR3RTWGJael9PUk9STEI0UUJ2ZFo4cDJsMDBKWHJ0dE44UVJBM1ZmYTVBT0VXXzBuaEhHUTllTzVMcnlnZ01PazdkQ19MbHVlX1hHVmZCMV9wM2YzLU5xUEUtYXdoMHJUM0hmVE5zbnpnMFRYaVAwOHNyM09DRVh0VTJmRHZ0MDJ1VUE0UHNFZFo0dC1BMlFVWXk0cXEzazNiMUUzdkZyZnfSAeMBQVVfeXFMUHhCYWd3NkVGVmtCeDdwNkZva1g2VUxYZ0VWMDUzMjgxTmFERld0ajQtb3Z0TzF6bk9NamlYVkxyelpONVgwZ2pvUlJvblRZNXZfX2RHNTMyR2Y4M2c0RmJJcHUzNEM5aDd1SkdOeVJJallyX2VDcHcySTljMjJQU21KbjFnOFhGWFZudUR5NlJBQnpUdlZYQ2RhVEs4QktaZzN1RDZZM1VGc0VaLXlDN2NqN1VLa1ZSUkphREZtYjlmM1pET2g3Z2ktbUpSY2xBNnpVM2JOX0F1cjN2bEZOdkMxOE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
     }
   ]
 }
