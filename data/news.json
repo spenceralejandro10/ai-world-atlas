@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:36:42.531Z",
+  "generatedAt": "2026-11-15T17:10:57.303Z",
   "items": [
     {
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
@@ -24,18 +24,6 @@
       "source": "blog.google",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
-      "summary": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth &nbsp;&nbsp; Google DeepMind",
-      "date": "2026-11-10",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Google DeepMind",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5"
     },
     {
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
@@ -120,6 +108,18 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
+    },
+    {
+      "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
+      "summary": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit &nbsp;&nbsp; Cointribune",
+      "date": "2026-11-15",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Cointribune",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUFhZ2FMMFZNS003Z2dUQVVmTFBaOHdsNTdOTFUtSVdpdWMwSXhUWVoyeHZMYy14RUUxaFNUbXV1TFRwZzZMOEkwQ0Q4Qnd2by1ubnZ2ei01ZDdwUkswdFMxVDQ1VVF2WVo3ZURNa09wZHBNRkRBU0wyYzNVelBfQkUya19kck56aTBqaWp3VTBmdw?oc=5"
     }
   ]
 }
