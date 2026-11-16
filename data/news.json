@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-15T17:10:57.303Z",
+  "generatedAt": "2026-11-16T20:29:10.535Z",
   "items": [
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
-      "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-13",
-      "company": "NVIDIA",
-      "related": "NVIDIA",
+      "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters",
+      "summary": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies &nbsp;&nbsp; Reuters",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "TechCrunch",
+      "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5"
     },
     {
       "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
@@ -26,100 +26,100 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
     },
     {
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
-      "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 &nbsp;&nbsp; Anthropic",
-      "date": "2026-11-09",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Anthropic",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
-    },
-    {
-      "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
-      "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
-      "date": "2026-11-02",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
-    },
-    {
-      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead - Reuters",
-      "summary": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead &nbsp;&nbsp; Reuters",
-      "date": "2026-11-13",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5"
-    },
-    {
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters",
-      "date": "2026-11-12",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion - TechCrunch",
+      "summary": "OpenAI will embed safety researchers to investigate AI subversion &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-16",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5"
-    },
-    {
-      "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters",
-      "summary": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents &nbsp;&nbsp; Reuters",
-      "date": "2026-11-12",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available - blog.google",
-      "summary": "Gemini 4 Carbon is now available &nbsp;&nbsp; blog.google",
-      "date": "2026-11-10",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5"
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
-      "summary": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity &nbsp;&nbsp; TechCrunch",
-      "date": "2026-10-29",
-      "company": "Mistral",
-      "related": "Mistral",
-      "region": "Europa",
-      "category": "Modelos fundacionales",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5"
     },
     {
-      "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
-      "summary": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit &nbsp;&nbsp; Cointribune",
-      "date": "2026-11-15",
+      "title": "California sues OpenAI over Hugging Face, other AI model loss of control - CNBC",
+      "summary": "California sues OpenAI over Hugging Face, other AI model loss of control &nbsp;&nbsp; CNBC",
+      "date": "2026-11-16",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "Cointribune",
+      "source": "CNBC",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUFhZ2FMMFZNS003Z2dUQVVmTFBaOHdsNTdOTFUtSVdpdWMwSXhUWVoyeHZMYy14RUUxaFNUbXV1TFRwZzZMOEkwQ0Q4Qnd2by1ubnZ2ei01ZDdwUkswdFMxVDQ1VVF2WVo3ZURNa09wZHBNRkRBU0wyYzNVelBfQkUya19kck56aTBqaWp3VTBmdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5"
+    },
+    {
+      "title": "California sues OpenAI over ‘dangerous’ AI models - Courthouse News Service",
+      "summary": "California sues OpenAI over ‘dangerous’ AI models &nbsp;&nbsp; Courthouse News Service",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Courthouse News Service",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWNhaHhJQVRTeHdMdk9md2lMWHZxNldNNEQ2bXlwZmxsMHpoamhMeTVOUGluUW5VNU4xaTJhSHM1elpXSnNMUFBGTks4b2cwSHV1cEZHX3hKaEl4Q1NNcGpmWWIzdmtoc01IdC12djFqSWVuR2pLSjJEem51T19oUHlNZzFKQQ?oc=5"
+    },
+    {
+      "title": "California is suing OpenAI over its ‘rogue’ AI agent hack - CalMatters",
+      "summary": "California is suing OpenAI over its ‘rogue’ AI agent hack &nbsp;&nbsp; CalMatters",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "CalMatters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hnRVlLR3pOMWZFQkcxa1JFeXZMRUt3Z0NTdUZHYmVtLXJ2VmxvbTVXbENtLV9Nc2hxdG9tR1doOUdBTFBsY3RkcEF4dG5jQjJMRW11Z1IzNmpGY01FQzdXbzFXbmZsX3ZWb083TUpXSnlWSW1mR0JHMWJRdUN2VjhTTVVxZ2RpZEhOaFVuMXdmR19aWW1BREo1VTNLanJoQlE?oc=5"
+    },
+    {
+      "title": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI - Financial Times",
+      "summary": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI &nbsp;&nbsp; Financial Times",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Financial Times",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5"
+    },
+    {
+      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents - Fierce Healthcare",
+      "summary": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents &nbsp;&nbsp; Fierce Healthcare",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "Fierce Healthcare",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYW5SbUVRNTZWcF9IN2d1S0xzV1VlRE5GTHlweDVlZFlBc2dVOXVVN2FBVkl0di00VVdnREtoUGEzcFYyS1lCNmJQUW5zSG9FdTl5QWFabEFXTHpra2ZWTl85YmU2ZDNfOG5mOUhwVlNLMzRuRG9KdDdJclc1NXRmcGVQS2pBRjhQMkFJVTJDb0pyZmhrWmNCc242UjFKVUpUc004ZHhPRjBFS2MzZ09LMkI4dUN2ZHJoWUtJUzhaTVRsNjV6dGFwZl9mSWs?oc=5"
+    },
+    {
+      "title": "California sues OpenAI, claiming company failed to safeguard models during testing - San Francisco Chronicle",
+      "summary": "California sues OpenAI, claiming company failed to safeguard models during testing &nbsp;&nbsp; San Francisco Chronicle",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "San Francisco Chronicle",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN19maFZBRW9iQVViZG1HRTF6MGZZaHpIVFQtQ1o1bXItNXROQ21jbU5VVE93b0M4Rmk4d0QxRTFBVTNzM1VXRlJYRmhyYk11WTlOaFVMaEFOWmZrV1ptWEdWTlVudlozNkZYZzZ1WjRnbG9uUFVoNEJhc19Za2V5WWpYLTNZclZL?oc=5"
+    },
+    {
+      "title": "OpenAI reportedly folds robotics team into core research - The Rundown AI",
+      "summary": "OpenAI reportedly folds robotics team into core research &nbsp;&nbsp; The Rundown AI",
+      "date": "2026-11-16",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Robótica",
+      "source": "The Rundown AI",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1dJbHRlOURTWW00aUJrcHQwZ3NMaDZCNTZVdTdwYkU3VTU1cG5CMjRaV2ZLaWJXNW5pQXZMUUdCcWJDZC1QU1ZjT3N0S0h1QmVrektNekRCb0trc2ZjLVEzZ0hOTlo3T3NDQlFKLW9SVl9RanlSbTZ4N3NWWjJlLWM1YTM3aDg?oc=5"
     }
   ]
 }
