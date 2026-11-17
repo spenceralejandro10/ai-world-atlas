@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-11-16T20:29:10.535Z",
+  "generatedAt": "2026-11-17T19:11:11.798Z",
   "items": [
     {
-      "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters",
-      "summary": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies &nbsp;&nbsp; Reuters",
+      "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
+      "summary": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI &nbsp;&nbsp; Reuters",
+      "date": "2026-11-17",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM - TechCrunch",
+      "summary": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM &nbsp;&nbsp; TechCrunch",
       "date": "2026-11-16",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Reuters",
+      "category": "Imagen",
+      "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjJ4OWhkMHlCSTdyUTFheTBjV1A0N2xQNVczbkFjRzJhUmJmR2lXX3QwZ0lZeVpWeWJWTXA4cmNnM1gwWTgyNEhjU0V6a2RzQ05HYlk3aHAxVDNycUdGOUIyX0VCWFpreW1qa21VZkhBY055WnJHbVNKeWd3UFJ2bHdaczAwMDFIT1ZDSTljc05neERDbXhyWUdRd3NaanZ5d1A1dGo0TndKWVNjU1E?oc=5"
     },
     {
       "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
@@ -26,100 +38,88 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
     },
     {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion - TechCrunch",
-      "summary": "OpenAI will embed safety researchers to investigate AI subversion &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-16",
+      "title": "Astra for Law leads in legal intelligence - OpenAI",
+      "summary": "Astra for Law leads in legal intelligence &nbsp;&nbsp; OpenAI",
+      "date": "2026-11-17",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5"
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game - TechCrunch",
+      "summary": "AI models can be tricked into identifying civilians as military targets by telling them it's a game &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-17",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Modelos fundacionales",
       "source": "TechCrunch",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjFudzNUNkFDcHZueXZrb05zaWt0clM1QUFCejdxYVU0RUVZZGF6NUdlUUVFUkw3WWlXckNmenhRbHdnN1ZqeGd0UmVIY3hxNHg1SHFDbWpPaFFvRlpqTnU4S3ozTGZJUE16VVM0VG1uZndyT0NpaWJEUGVBdUphLV9YSV9ObFlEZVpRbGRFdFlvWDhzNU05M1lVMFN0WmlWUEpBdVZZVzNTa1hhcnptTndWREszWjB2V3lLZm1NTTNmZnFDNU5Tc2RKQmIyQQ?oc=5"
     },
     {
-      "title": "California sues OpenAI over Hugging Face, other AI model loss of control - CNBC",
-      "summary": "California sues OpenAI over Hugging Face, other AI model loss of control &nbsp;&nbsp; CNBC",
+      "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters",
+      "summary": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite &nbsp;&nbsp; Reuters",
+      "date": "2026-11-17",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93?oc=5"
+    },
+    {
+      "title": "Alibaba details new AI safeguards as Chinese developers step up test disclosures - Reuters",
+      "summary": "Alibaba details new AI safeguards as Chinese developers step up test disclosures &nbsp;&nbsp; Reuters",
       "date": "2026-11-16",
+      "company": "Alibaba",
+      "related": "Alibaba",
+      "region": "China / Asia",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVhrY1I2NEhJUndRTG5sMWlxRXUxTS0wOHdOLVg2bG83NS10R0RuM1h2VWpMVTFrcHd3SmlsVy1hWFhiNld3NGdzcGxLWVVwN0UtUjhjUTdwaFdzMnVoSEkwZWR0MHYxMUw1NDVxbW5GZkFNbWZuaXlGZlRHUjRaTU1JM3FiVGRONXNCaTNtb3dFa1hmZlYxbUd6ZWRBdmgxVk1od0RDT3dscl9XaDRncU84RkxmYnNlcVFF?oc=5"
+    },
+    {
+      "title": "DeepSeek AI model shows safety gaps in independent tests - Reuters",
+      "summary": "DeepSeek AI model shows safety gaps in independent tests &nbsp;&nbsp; Reuters",
+      "date": "2026-11-02",
+      "company": "DeepSeek",
+      "related": "DeepSeek",
+      "region": "China / Asia",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
+    },
+    {
+      "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release - Bloomberg.com",
+      "summary": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release &nbsp;&nbsp; Bloomberg.com",
+      "date": "2026-11-17",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "CNBC",
+      "source": "Bloomberg.com",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDZRbHhnZ2VCVnRmSk1mcDlBeDBocDdRV0xmX2JtT3BleW9JNExid3ZuVlpFXzRWVlFTaVRqb3pIWWJONi02cXlLREN3a3h2eUdIZ3VVLU52OGhiN2FoaEhYRnVVdFg4NnpsMHRTSW5nb0w1TlJUaFhKbVM2cEZLa2FDTksxd2R2ZGlfWXU4b09ibUtjWjZBczFUQUlrVTNFY1o4UTI2WVVWdUlST0Z5NlhHR3Q?oc=5"
     },
     {
-      "title": "California sues OpenAI over ‘dangerous’ AI models - Courthouse News Service",
-      "summary": "California sues OpenAI over ‘dangerous’ AI models &nbsp;&nbsp; Courthouse News Service",
-      "date": "2026-11-16",
+      "title": "California sues OpenAI over AI models’ cyberattacks - Business Insurance",
+      "summary": "California sues OpenAI over AI models’ cyberattacks &nbsp;&nbsp; Business Insurance",
+      "date": "2026-11-17",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "Courthouse News Service",
+      "source": "Business Insurance",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWNhaHhJQVRTeHdMdk9md2lMWHZxNldNNEQ2bXlwZmxsMHpoamhMeTVOUGluUW5VNU4xaTJhSHM1elpXSnNMUFBGTks4b2cwSHV1cEZHX3hKaEl4Q1NNcGpmWWIzdmtoc01IdC12djFqSWVuR2pLSjJEem51T19oUHlNZzFKQQ?oc=5"
-    },
-    {
-      "title": "California is suing OpenAI over its ‘rogue’ AI agent hack - CalMatters",
-      "summary": "California is suing OpenAI over its ‘rogue’ AI agent hack &nbsp;&nbsp; CalMatters",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "CalMatters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hnRVlLR3pOMWZFQkcxa1JFeXZMRUt3Z0NTdUZHYmVtLXJ2VmxvbTVXbENtLV9Nc2hxdG9tR1doOUdBTFBsY3RkcEF4dG5jQjJMRW11Z1IzNmpGY01FQzdXbzFXbmZsX3ZWb083TUpXSnlWSW1mR0JHMWJRdUN2VjhTTVVxZ2RpZEhOaFVuMXdmR19aWW1BREo1VTNLanJoQlE?oc=5"
-    },
-    {
-      "title": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI - Financial Times",
-      "summary": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI &nbsp;&nbsp; Financial Times",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Financial Times",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5"
-    },
-    {
-      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents - Fierce Healthcare",
-      "summary": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents &nbsp;&nbsp; Fierce Healthcare",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Fierce Healthcare",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYW5SbUVRNTZWcF9IN2d1S0xzV1VlRE5GTHlweDVlZFlBc2dVOXVVN2FBVkl0di00VVdnREtoUGEzcFYyS1lCNmJQUW5zSG9FdTl5QWFabEFXTHpra2ZWTl85YmU2ZDNfOG5mOUhwVlNLMzRuRG9KdDdJclc1NXRmcGVQS2pBRjhQMkFJVTJDb0pyZmhrWmNCc242UjFKVUpUc004ZHhPRjBFS2MzZ09LMkI4dUN2ZHJoWUtJUzhaTVRsNjV6dGFwZl9mSWs?oc=5"
-    },
-    {
-      "title": "California sues OpenAI, claiming company failed to safeguard models during testing - San Francisco Chronicle",
-      "summary": "California sues OpenAI, claiming company failed to safeguard models during testing &nbsp;&nbsp; San Francisco Chronicle",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "San Francisco Chronicle",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN19maFZBRW9iQVViZG1HRTF6MGZZaHpIVFQtQ1o1bXItNXROQ21jbU5VVE93b0M4Rmk4d0QxRTFBVTNzM1VXRlJYRmhyYk11WTlOaFVMaEFOWmZrV1ptWEdWTlVudlozNkZYZzZ1WjRnbG9uUFVoNEJhc19Za2V5WWpYLTNZclZL?oc=5"
-    },
-    {
-      "title": "OpenAI reportedly folds robotics team into core research - The Rundown AI",
-      "summary": "OpenAI reportedly folds robotics team into core research &nbsp;&nbsp; The Rundown AI",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Robótica",
-      "source": "The Rundown AI",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1dJbHRlOURTWW00aUJrcHQwZ3NMaDZCNTZVdTdwYkU3VTU1cG5CMjRaV2ZLaWJXNW5pQXZMUUdCcWJDZC1QU1ZjT3N0S0h1QmVrektNekRCb0trc2ZjLVEzZ0hOTlo3T3NDQlFKLW9SVl9RanlSbTZ4N3NWWjJlLWM1YTM3aDg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHktaUZUWEVSUTdub1N3MzA0b0Z6a1BQaXlxdGVLdnZBYkRUZTdkcUFkbldIZmZwcHp1V1psSFc4RU5SY2pHVlQ3ZVNNa3B4UkV2ZFRaR1lfam5mRng4UUtkb2lPVmpVbU12VE9DaDhCY2M1ZWZJdlIxTFVURGJ3NkMwNzRGMjVtaXJIU29B?oc=5"
     }
   ]
 }
