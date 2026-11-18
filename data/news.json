@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:11:11.798Z",
+  "generatedAt": "2026-11-18T18:51:09.370Z",
   "items": [
     {
       "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
@@ -14,30 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM - TechCrunch",
-      "summary": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-16",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Imagen",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjJ4OWhkMHlCSTdyUTFheTBjV1A0N2xQNVczbkFjRzJhUmJmR2lXX3QwZ0lZeVpWeWJWTXA4cmNnM1gwWTgyNEhjU0V6a2RzQ05HYlk3aHAxVDNycUdGOUIyX0VCWFpreW1qa21VZkhBY055WnJHbVNKeWd3UFJ2bHdaczAwMDFIT1ZDSTljc05neERDbXhyWUdRd3NaanZ5d1A1dGo0TndKWVNjU1E?oc=5"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
-      "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows &nbsp;&nbsp; blog.google",
-      "date": "2026-11-12",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence - OpenAI",
       "summary": "Astra for Law leads in legal intelligence &nbsp;&nbsp; OpenAI",
       "date": "2026-11-17",
@@ -48,6 +24,18 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO - TechCrunch",
+      "summary": "Amazon and Google will together own nearly 30% of Anthropic after its IPO &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-17",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzVoTDBKTEpPYWdHVlhXOFdqd3Z2bUNtb3Vkbnp5NHlSMW1HOUR0d0VnWmtBVDdHQjdiUklzcE5kTWV2RllEcFRQVHZCWkp5b1hEVHc1bDFDZWtHQks4OGlWeE5oa0NxV0xpcnJha29OTldUTmVYNldkaHdSb1JFY19vSTFQYjlndDJidTQ2MTk0Nmd5Wkxyd0lVRWI4TW5wNXJRVkp0Sk1sWWs?oc=5"
     },
     {
       "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game - TechCrunch",
@@ -98,28 +86,40 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
     },
     {
-      "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release - Bloomberg.com",
-      "summary": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release &nbsp;&nbsp; Bloomberg.com",
-      "date": "2026-11-17",
+      "title": "Microsoft takes aim at OpenAI and Anthropic with 6 new AI models at a fraction of the cost - The American Bazaar",
+      "summary": "Microsoft takes aim at OpenAI and Anthropic with 6 new AI models at a fraction of the cost &nbsp;&nbsp; The American Bazaar",
+      "date": "2026-11-18",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "Bloomberg.com",
+      "source": "The American Bazaar",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDZRbHhnZ2VCVnRmSk1mcDlBeDBocDdRV0xmX2JtT3BleW9JNExid3ZuVlpFXzRWVlFTaVRqb3pIWWJONi02cXlLREN3a3h2eUdIZ3VVLU52OGhiN2FoaEhYRnVVdFg4NnpsMHRTSW5nb0w1TlJUaFhKbVM2cEZLa2FDTksxd2R2ZGlfWXU4b09ibUtjWjZBczFUQUlrVTNFY1o4UTI2WVVWdUlST0Z5NlhHR3Q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3JXWF9SQ1dUTEdzM2pOc2c3cTM1dG81TE5PRGNwY2Iwel9pN0dBbUs1T0VVUnJBUE9vOTV6ejlmVkhtUVFBamFGR3ZENFprZkpTajJBTHNCQW9sZDI3X0pTZ0FCUmRwdVNyZzBHVTFBSU1uMC1JMXpabnJJV3plelc0X2JRZUZGNXdLT1ZUblk0UzhIaEVzMjZaWkZyYWpOTVpPcVRJYzlkVEhlNVRYWFA5Wkl5QkYwby02R2t5YkNSUTNQczFTWXVVRzlUT0FUeXhwN1AzQXhmUQ?oc=5"
     },
     {
-      "title": "California sues OpenAI over AI models’ cyberattacks - Business Insurance",
-      "summary": "California sues OpenAI over AI models’ cyberattacks &nbsp;&nbsp; Business Insurance",
-      "date": "2026-11-17",
+      "title": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding - InfoWorld",
+      "summary": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding &nbsp;&nbsp; InfoWorld",
+      "date": "2026-11-18",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Business Insurance",
+      "category": "Programación y agentes",
+      "source": "InfoWorld",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHktaUZUWEVSUTdub1N3MzA0b0Z6a1BQaXlxdGVLdnZBYkRUZTdkcUFkbldIZmZwcHp1V1psSFc4RU5SY2pHVlQ3ZVNNa3B4UkV2ZFRaR1lfam5mRng4UUtkb2lPVmpVbU12VE9DaDhCY2M1ZWZJdlIxTFVURGJ3NkMwNzRGMjVtaXJIU29B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1Y0SWNrRFdxeWtFRkxJTGVuNElGM25QSjdFQ0FoZEQ4c1pHc0VLdEtGbTh0UHExemRDQm1Zc2dnRUFXWmgxVVJjS2o1Y1hqT09GNmZjV0pDam9PV2xVODdFU1pJS25DUnhjcWZNd3RvOHlCQjhtQjAtb0EzNkxwekR0cVpHQzMwNFZGMVdETXRKbEhYekFmdkdaN1lwcEEtYk1IMXZuSzBOMEtrM3V1LUVHTUhzTE84V21rekdoVFBGbWYwRlZxUnBB?oc=5"
+    },
+    {
+      "title": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work - CNET",
+      "summary": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work &nbsp;&nbsp; CNET",
+      "date": "2026-11-18",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "CNET",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5"
     }
   ]
 }
