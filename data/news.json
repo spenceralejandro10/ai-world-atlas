@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-20T18:36:41.722Z",
+  "generatedAt": "2026-11-21T17:32:33.836Z",
   "items": [
+    {
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models - TechCrunch",
+      "summary": "Anthropic rival says companies can (mostly) skip the pricey models &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-20",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWdHQzFSWGV6UVd3eUpNaFhRMlpQdGVnOTZkdURwejVldFhNVTdXN0VaVW1tREFNWERFM0ROSHpsXzd0MXdBTGxpMi1Zc2M1RjZJNGRCeFVIQU5fcEZ0OGpfdjV4UXJiYzQtUXRyYzhsN1hESEpwWGlsc0NGa1RMbkN5NGFLVmVlMkxrazg2R1RJSGtMSkJjZ3JBSGtsREQt?oc=5"
+    },
     {
       "title": "Introducing Gemini 4 Neon - blog.google",
       "summary": "Introducing Gemini 4 Neon &nbsp;&nbsp; blog.google",
@@ -38,6 +50,18 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5"
     },
     {
+      "title": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion - Reuters",
+      "summary": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion &nbsp;&nbsp; Reuters",
+      "date": "2026-11-20",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5"
+    },
+    {
       "title": "Anthropic’s IPO puts AI’s circular financing boom to the test - TechCrunch",
       "summary": "Anthropic’s IPO puts AI’s circular financing boom to the test &nbsp;&nbsp; TechCrunch",
       "date": "2026-11-19",
@@ -48,6 +72,18 @@
       "source": "TechCrunch",
       "official": false,
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0M3aVUzbkYxNTJXTXJxdWxKa2x1LXp5bDU5UGQ3amdCdHRxOFc2RUprbzNQa3Z5Z003NjdPcjh6NnNpN1dJbDRsemZRdzl5OTFObGNVTnQzdVdBd0tPWWlHaVd1N2p5NVlvamlRRUxVX3l2WnJEVHJraXRRQUpyLWRtSUlKdV8tUmxkYjdOSG5nZk9hTU55OUlR?oc=5"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you - TechCrunch",
+      "summary": "Google gives Gemini the ability to use your Mac for you &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-19",
+      "company": "Google DeepMind",
+      "related": "Google DeepMind",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblRncnY3TTZKYzF3bnA5b1BHZm40YzJHcmdTdFJBcDZLb01oWjJRYjYwWW5qMEozRFZoNjQwU2lyeXItVGcyRmtSVjY4aHBzS1FSNTNLbGlteTZIdzlycUVBTXN3OEhTVWJ4RHdBcFQySEFINW40djd5WjJ4Z3ZPOS1PejVtcGlrV2JzQUc4UEZ1VVBq?oc=5"
     },
     {
       "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
@@ -84,42 +120,6 @@
       "source": "OpenAI",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5"
-    },
-    {
-      "title": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion - Reuters",
-      "summary": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion &nbsp;&nbsp; Reuters",
-      "date": "2026-11-18",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5"
-    },
-    {
-      "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs - Tom's Hardware",
-      "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs &nbsp;&nbsp; Tom's Hardware",
-      "date": "2026-11-20",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Tom's Hardware",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUGdyZW9IT1FpNVFKckhfR0N6dTQ2U0JFUm5UbUczQTlUREs4VTYwYXdLYlB3VXVZZ29ROHZxQkR4TnRqVHMtRWdpZ3VuVTJBd2x6QWk4ZlZNWENfLTY3bE1MN25UdEt0NWJ2a254cXZ0MXNwV3oxVEVlemFodVJyTGxBRUFLTjE5N1c1TUZXTTFlOXpZTnVTWk5UUjRiSHJHSHJwWThPVk41SlZ0dXZidERpTXhwWWJweXJOWkNOYVZlYlJwcVZndDdEUUNCV1ktOGR1ZUx2V1gyQnFaT050M2hhT3JnMEF1NFFsaUxPZDBHRWh1Y18xTThXNG8xT05NSGZIaXNnQWVQejVrVUhKb2tyT01ndVhZa19LUG9iTlM0V3JoYlVkQXdB?oc=5"
-    },
-    {
-      "title": "DeepSeek’s computing crunch pushes China’s AI developers beyond models - ThinkChina",
-      "summary": "DeepSeek’s computing crunch pushes China’s AI developers beyond models &nbsp;&nbsp; ThinkChina",
-      "date": "2026-11-20",
-      "company": "DeepSeek",
-      "related": "DeepSeek",
-      "region": "China / Asia",
-      "category": "Modelos fundacionales",
-      "source": "ThinkChina",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZS0zVnZDTDFFbTNGUml6SEREM1U5a1RUOWtVTkNkN3dlckRkbTczUVZzcHBiWjE1SC14Tnd6Vjl6LXJrMDNIYW8tX1lscEp3M21zTXBmU3FLODNsbWo3dWE2WGFXVE9SbG9OY2pSMERNZTRUcXZQcHd0T3I4VWQ0ZUZpTVFTdEg2WGg4czlpelJOTE9SQ2ljYm9tQkM2djhQQW1jcQ?oc=5"
     }
   ]
 }
