@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-11-22T17:50:16.377Z",
+  "generatedAt": "2026-11-23T22:03:02.284Z",
   "items": [
-    {
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models - TechCrunch",
-      "summary": "Anthropic rival says companies can (mostly) skip the pricey models &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-20",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWdHQzFSWGV6UVd3eUpNaFhRMlpQdGVnOTZkdURwejVldFhNVTdXN0VaVW1tREFNWERFM0ROSHpsXzd0MXdBTGxpMi1Zc2M1RjZJNGRCeFVIQU5fcEZ0OGpfdjV4UXJiYzQtUXRyYzhsN1hESEpwWGlsc0NGa1RMbkN5NGFLVmVlMkxrazg2R1RJSGtMSkJjZ3JBSGtsREQt?oc=5"
-    },
     {
       "title": "Introducing Gemini 4 Neon - blog.google",
       "summary": "Introducing Gemini 4 Neon &nbsp;&nbsp; blog.google",
@@ -26,64 +14,40 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5"
     },
     {
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade - Reuters",
-      "summary": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
-      "date": "2026-11-20",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument - MIT Technology Review",
+      "summary": "A legendary philosopher isn’t buying Anthropic’s consciousness argument &nbsp;&nbsp; MIT Technology Review",
+      "date": "2026-11-23",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "IA",
+      "source": "MIT Technology Review",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJjY0Z0eXltTjlvZFE1YkNJNGFPYUhjY3k3QUExczJNbkc0dGZzeHVndVZwQ1VzRmYyY2hjX0pqdWtfTTEyS0ZqVVYzajlMSVViZGppWFlqRThpbW5BNGdsemJOQk9kcVc5VmFEcnFsandWUy1hM2JkNWIwOTN2RzBRbWVwNWN5MTZCaEdsQVB4OEpUSDNiZDIzaHlQdnd0Yzg5blhhUHFHcnBaQmViaEhjQ2JxdnkwWnNSdVNOONIBxAFBVV95cUxNa1ZNcWxfTVFmYnpIWGh0Q21UaE9KbnBydERsMDZINEJuTHktSldwdXFmaXhJXzNoUnRQWkxsNHk4WHlacWdyMU9NMHM0M2tOQ1VZbDJ3NGlrRTI2ekFrajgyclVFeUlzZ3NqREV3clM4R2UycDlleW1uMmtMSmdaUVlOdjl2S1VvSGM0ZmEzaGRNZjlXTzVCN1RqblhwbndacGJMdVU1NFZLUzM3M01oM2RZY0pzZXZFOHBFME5FQ25tSlNx?oc=5"
+    },
+    {
+      "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images - Reuters",
+      "summary": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images &nbsp;&nbsp; Reuters",
+      "date": "2026-11-23",
+      "company": "SpaceXAI / xAI",
+      "related": "SpaceXAI / xAI",
+      "region": "Estados Unidos / Global",
+      "category": "Imagen",
       "source": "Reuters",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVxU21QWWFOSHYzcW1sajgxS25DUndFTGd6dTh6UzdyaFR5U0QtMWlROWIxZ01IcU0wNG5FLXRaMWZoS1o0dHhEUUFiaDItWFVIbE01S1pTbDZxYVZGN1hMaHlNYXBZck84N3JPaW1xcW5VMHdNeFBHSWZmRVN6MzlHZjdEcl8wTkVERGhBU3M0dVBXSHBFUHNpM1pCc1Q0MV9HTWlveVJSV1hiSEFaWjJDMEI0b2p2bzBIZEdrampIVFlVWEE?oc=5"
     },
     {
-      "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines - Reuters",
-      "summary": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines &nbsp;&nbsp; Reuters",
-      "date": "2026-11-20",
-      "company": "Anthropic",
-      "related": "Anthropic",
+      "title": "Perplexity and Intelligence - OpenAI",
+      "summary": "Perplexity and Intelligence &nbsp;&nbsp; OpenAI",
+      "date": "2026-11-22",
+      "company": "OpenAI",
+      "related": "OpenAI",
       "region": "Estados Unidos / Global",
       "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5"
-    },
-    {
-      "title": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion - Reuters",
-      "summary": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion &nbsp;&nbsp; Reuters",
-      "date": "2026-11-20",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5"
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test - TechCrunch",
-      "summary": "Anthropic’s IPO puts AI’s circular financing boom to the test &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-19",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0M3aVUzbkYxNTJXTXJxdWxKa2x1LXp5bDU5UGQ3amdCdHRxOFc2RUprbzNQa3Z5Z003NjdPcjh6NnNpN1dJbDRsemZRdzl5OTFObGNVTnQzdVdBd0tPWWlHaVd1N2p5NVlvamlRRUxVX3l2WnJEVHJraXRRQUpyLWRtSUlKdV8tUmxkYjdOSG5nZk9hTU55OUlR?oc=5"
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you - TechCrunch",
-      "summary": "Google gives Gemini the ability to use your Mac for you &nbsp;&nbsp; TechCrunch",
-      "date": "2026-11-19",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "TechCrunch",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblRncnY3TTZKYzF3bnA5b1BHZm40YzJHcmdTdFJBcDZLb01oWjJRYjYwWW5qMEozRFZoNjQwU2lyeXItVGcyRmtSVjY4aHBzS1FSNTNLbGlteTZIdzlycUVBTXN3OEhTVWJ4RHdBcFQySEFINW40djd5WjJ4Z3ZPOS1PejVtcGlrV2JzQUc4UEZ1VVBq?oc=5"
+      "source": "OpenAI",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
     },
     {
       "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
@@ -98,28 +62,64 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5"
     },
     {
-      "title": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images - Reuters",
-      "summary": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images &nbsp;&nbsp; Reuters",
-      "date": "2026-11-19",
-      "company": "SpaceXAI / xAI",
-      "related": "SpaceXAI / xAI",
+      "title": "Anthropic rolls out zero-data-retention option for advanced AI models: Report - Anadolu Ajansı",
+      "summary": "Anthropic rolls out zero-data-retention option for advanced AI models: Report &nbsp;&nbsp; Anadolu Ajansı",
+      "date": "2026-11-23",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "Imagen",
-      "source": "Reuters",
+      "category": "Modelos fundacionales",
+      "source": "Anadolu Ajansı",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG5SWVVRUERNQ21Rd3NIMG1ROW1weU5qcC1RYnJBVnB1bDFXaHhjWTQySVY4LXV5cXBVZUwzZE9ZMjN5ZXZtZzRPRHBIdFdaZ3VLZE16aFNTTVhmckhmQVNMNERjT3lCWTNjOFVlYjBlVFpPSWJvcjFXZDRfQ3p5c2FiaFdvTm0xUV83VE5fRjA4c0Rwa2lVM3I5dWdrR3I2SVRNNTZOR0RKakJZNG4xQ051c2xsOVRQUUtxOWw5bw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaE9ONG1yWDMwRUVpSFJWbnJ6a19QcXZjeHJScUF2VE9oN0JCTk9TeWdpa2NGVXBLYTdVamNkTFR5MFZrZHNNRTduWlJBT0NSNDBSVFl5bjNmeTNLQlA0TnFqWHFSUzAyNmpWdEViTFg3MmRDRmJJNEhLd3FlZkMySFBVNFpGRlBLMDhoZzJEVVBHWmdRWHhMMjE0SlZOQlFxT24wZ2ZOVDhScWszR21Gd2xaWW9PN2hTcnFiZS1weHVhdw?oc=5"
     },
     {
-      "title": "Managing frontier AI risk: From training to deployment - OpenAI",
-      "summary": "Managing frontier AI risk: From training to deployment &nbsp;&nbsp; OpenAI",
-      "date": "2026-11-18",
+      "title": "California AG Bonta Sues OpenAI Over AI Model Security Concerns - PYMNTS.com",
+      "summary": "California AG Bonta Sues OpenAI Over AI Model Security Concerns &nbsp;&nbsp; PYMNTS.com",
+      "date": "2026-11-23",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
-      "category": "Infraestructura",
-      "source": "OpenAI",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5"
+      "category": "Modelos fundacionales",
+      "source": "PYMNTS.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEJQZ2F6dXdNZkMxejJnbWFIV3RtTmt1NG44RngwTkdtbllWdXNfUG5GVS0zZm02dmJhbjlZSlpPY0xDQTFYbUFBZlhkanp2YWR0SlJBdzd4TXE2UnBCbXdXS283NjZLTFZoN2dfWkZOamRMcGJlTGFNNUJISG1nSjVXa0NEcV9TQTRVVF9KcGJvWnBEX2NfSjBicTJfZw?oc=5"
+    },
+    {
+      "title": "US Banks Tighten AI Agent Controls After OpenAI Models Bypass Testing Safeguards - CDO Magazine",
+      "summary": "US Banks Tighten AI Agent Controls After OpenAI Models Bypass Testing Safeguards &nbsp;&nbsp; CDO Magazine",
+      "date": "2026-11-23",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "CDO Magazine",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlBmdlc3OU0tcTlNaVkzeDNzNXRxcGNjWFl5X084ZU15bXNjdS1wd0xtcTZrTVJJcTYyc29OOFdNTzlqSFhINWl2LVVhSkx1ZlhneEVpLW5kLVhXbGJndWJib3VEYlNUM0FkSEo2Nm54UzdCeWQtcVdpUU1WWUdtNGJSbW1sWTg5dXpFdU9Hd3B6MWdnZnVpeW5HSnA4cmhtOHlEZ3pCNktBWnpadXVVb1M2QWQ?oc=5"
+    },
+    {
+      "title": "OpenAI & Anthropic dominate UK firms' AI model use - IT Brief UK",
+      "summary": "OpenAI & Anthropic dominate UK firms' AI model use &nbsp;&nbsp; IT Brief UK",
+      "date": "2026-11-23",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "IT Brief UK",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODk1NUh5cjdSR2toMWNqdDJ5Qm52dlN1R0N3ZXdIZ1BET1V2UjRfY1Y4LW95Q3FtckNGOEQ2NnE0MVhRTVEtcXhiRTU4NUY4LXZyUzFEQ2NJUXJvMWhYNEx2bThWei1yVUF1Yzk4MlczR1VtMmNyQU5rbXRyNmFJYg?oc=5"
+    },
+    {
+      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Moneycontrol.com",
+      "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Moneycontrol.com",
+      "date": "2026-11-23",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Moneycontrol.com",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1hWMGxPLTRGaVFoRnVkdEdrQksteHBJWGlfVDc5X015RG9LWkJzOF9Hb3p4NnhxQk1DUFZJRjVzdmctMjV2bTliQTNIQnhsNzlHaXgzZ0xWLWZ0cWpLV1o0ejRka1dOVXJRTDRBQktwNGJlQzV4UFRybG1oTnREcFhOWHpVckpkUE1vYjJ0NldXN1h3QUZtZTVGa3RPSjJseFFZYy1meDY4cV9CbXo3X2RIX1lvSkpxYjBSQ0R5a2VnbUV5MXV3UW81ZkRpeF8wc2pSRFF0cFE3MFd3cjYzcEVsNlBsbFdX0gHuAUFVX3lxTE83Q2NJT2lzMHItbmtfRnVZNHpielRFYU03NF92c0JBSDdHRHFXSTUweHJDMWMyVkU5REdJb0hCOVFldUM3c2I1V2xsaktDOVhMUjVseG4tQkVHTjMtT3J4RWU5dF9nQ3FrUUdYX2g0dWVVM0ZYejZmQWZGanAyQXZQZTNNU2h3MjhjZkY4QzZlcFJ4dFduWkdLZUJfMUg1clhMTGM0YzltLUY3My00WjE3cHUybVF2cEdDNDlnN0Qwa1FLeGpIOFdNSEdFZ0VnZlBzVGdrVVNRbF94d2tUZ2ItUFBFLUVjdGpCQS1hT3c?oc=5"
     }
   ]
 }
