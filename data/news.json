@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-23T22:03:02.284Z",
+  "generatedAt": "2026-11-24T20:39:35.206Z",
   "items": [
+    {
+      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
+      "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Reuters",
+      "date": "2026-11-22",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5"
+    },
     {
       "title": "Introducing Gemini 4 Neon - blog.google",
       "summary": "Introducing Gemini 4 Neon &nbsp;&nbsp; blog.google",
@@ -12,6 +24,18 @@
       "source": "blog.google",
       "official": true,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5"
+    },
+    {
+      "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
+      "summary": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI &nbsp;&nbsp; Reuters",
+      "date": "2026-11-17",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument - MIT Technology Review",
@@ -50,76 +74,52 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
     },
     {
-      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
-      "summary": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains &nbsp;&nbsp; Reuters",
-      "date": "2026-11-19",
-      "company": "Alibaba",
-      "related": "Alibaba",
-      "region": "China / Asia",
-      "category": "IA",
-      "source": "Reuters",
+      "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+      "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release &nbsp;&nbsp; Axios",
+      "date": "2026-11-24",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
+      "source": "Axios",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5"
     },
     {
-      "title": "Anthropic rolls out zero-data-retention option for advanced AI models: Report - Anadolu Ajansı",
-      "summary": "Anthropic rolls out zero-data-retention option for advanced AI models: Report &nbsp;&nbsp; Anadolu Ajansı",
-      "date": "2026-11-23",
+      "title": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security - Industrial Cyber",
+      "summary": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security &nbsp;&nbsp; Industrial Cyber",
+      "date": "2026-11-24",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
+      "source": "Industrial Cyber",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZU0wUUtOY0pVT0pfYzJGaE1pY003d3NrYzdjaHY3T2dzQkRXeXB4cnJPemstN3RyLXZBSnUxb2hfMTVxeUg0SDVNTEp2dlJ0dXVZM2gxdEFUQndqR2E4RTlQZ1NZU1M5cUlZbGREMDhPcDZfcDJWMklCcUMyeEN1bTNuSkJzN0NKRG90RC13dTZEMzFObk0weTBHN0UtQUR3NGE3QVpwQWVXUjJlbFJXVVd6Z3FpTWhpeHlxdVl5bG1nTVl2Tlh4cFhmeGdoQzFzeTJyRnNXbXJmWXhDRk84?oc=5"
+    },
+    {
+      "title": "Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios - Anadolu Ajansı",
+      "summary": "Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios &nbsp;&nbsp; Anadolu Ajansı",
+      "date": "2026-11-24",
+      "company": "OpenAI",
+      "related": "OpenAI",
+      "region": "Estados Unidos / Global",
+      "category": "Modelos fundacionales",
       "source": "Anadolu Ajansı",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaE9ONG1yWDMwRUVpSFJWbnJ6a19QcXZjeHJScUF2VE9oN0JCTk9TeWdpa2NGVXBLYTdVamNkTFR5MFZrZHNNRTduWlJBT0NSNDBSVFl5bjNmeTNLQlA0TnFqWHFSUzAyNmpWdEViTFg3MmRDRmJJNEhLd3FlZkMySFBVNFpGRlBLMDhoZzJEVVBHWmdRWHhMMjE0SlZOQlFxT24wZ2ZOVDhScWszR21Gd2xaWW9PN2hTcnFiZS1weHVhdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlFad0I0cjE0VVFtVkloWGVFZkZjODgtQ3BVTmV3cDNFSnZRX2ZESDdYRjRYUXNEMjFEbEp6Zm5mbnZzcVh6RkJPR1ZkS1ZINlg4LWdackdOa29CQkhwb1BiSHk3b0FMVlAxb1hVdU9hZ1hSOGZvOXhkblJCakNpVE8wMUxQM29DMG84THlQc3c1Sl9hLTREZG9BMlpCUjNXbnAwUHF4Q2t5R3lsZWlNejFmTjQ5dw?oc=5"
     },
     {
-      "title": "California AG Bonta Sues OpenAI Over AI Model Security Concerns - PYMNTS.com",
-      "summary": "California AG Bonta Sues OpenAI Over AI Model Security Concerns &nbsp;&nbsp; PYMNTS.com",
-      "date": "2026-11-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "PYMNTS.com",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEJQZ2F6dXdNZkMxejJnbWFIV3RtTmt1NG44RngwTkdtbllWdXNfUG5GVS0zZm02dmJhbjlZSlpPY0xDQTFYbUFBZlhkanp2YWR0SlJBdzd4TXE2UnBCbXdXS283NjZLTFZoN2dfWkZOamRMcGJlTGFNNUJISG1nSjVXa0NEcV9TQTRVVF9KcGJvWnBEX2NfSjBicTJfZw?oc=5"
-    },
-    {
-      "title": "US Banks Tighten AI Agent Controls After OpenAI Models Bypass Testing Safeguards - CDO Magazine",
-      "summary": "US Banks Tighten AI Agent Controls After OpenAI Models Bypass Testing Safeguards &nbsp;&nbsp; CDO Magazine",
-      "date": "2026-11-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving - WIRED",
+      "summary": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving &nbsp;&nbsp; WIRED",
+      "date": "2026-11-24",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Programación y agentes",
-      "source": "CDO Magazine",
+      "source": "WIRED",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlBmdlc3OU0tcTlNaVkzeDNzNXRxcGNjWFl5X084ZU15bXNjdS1wd0xtcTZrTVJJcTYyc29OOFdNTzlqSFhINWl2LVVhSkx1ZlhneEVpLW5kLVhXbGJndWJib3VEYlNUM0FkSEo2Nm54UzdCeWQtcVdpUU1WWUdtNGJSbW1sWTg5dXpFdU9Hd3B6MWdnZnVpeW5HSnA4cmhtOHlEZ3pCNktBWnpadXVVb1M2QWQ?oc=5"
-    },
-    {
-      "title": "OpenAI & Anthropic dominate UK firms' AI model use - IT Brief UK",
-      "summary": "OpenAI & Anthropic dominate UK firms' AI model use &nbsp;&nbsp; IT Brief UK",
-      "date": "2026-11-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "IT Brief UK",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODk1NUh5cjdSR2toMWNqdDJ5Qm52dlN1R0N3ZXdIZ1BET1V2UjRfY1Y4LW95Q3FtckNGOEQ2NnE0MVhRTVEtcXhiRTU4NUY4LXZyUzFEQ2NJUXJvMWhYNEx2bThWei1yVUF1Yzk4MlczR1VtMmNyQU5rbXRyNmFJYg?oc=5"
-    },
-    {
-      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Moneycontrol.com",
-      "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Moneycontrol.com",
-      "date": "2026-11-23",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Moneycontrol.com",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1hWMGxPLTRGaVFoRnVkdEdrQksteHBJWGlfVDc5X015RG9LWkJzOF9Hb3p4NnhxQk1DUFZJRjVzdmctMjV2bTliQTNIQnhsNzlHaXgzZ0xWLWZ0cWpLV1o0ejRka1dOVXJRTDRBQktwNGJlQzV4UFRybG1oTnREcFhOWHpVckpkUE1vYjJ0NldXN1h3QUZtZTVGa3RPSjJseFFZYy1meDY4cV9CbXo3X2RIX1lvSkpxYjBSQ0R5a2VnbUV5MXV3UW81ZkRpeF8wc2pSRFF0cFE3MFd3cjYzcEVsNlBsbFdX0gHuAUFVX3lxTE83Q2NJT2lzMHItbmtfRnVZNHpielRFYU03NF92c0JBSDdHRHFXSTUweHJDMWMyVkU5REdJb0hCOVFldUM3c2I1V2xsaktDOVhMUjVseG4tQkVHTjMtT3J4RWU5dF9nQ3FrUUdYX2g0dWVVM0ZYejZmQWZGanAyQXZQZTNNU2h3MjhjZkY4QzZlcFJ4dFduWkdLZUJfMUg1clhMTGM0YzltLUY3My00WjE3cHUybVF2cEdDNDlnN0Qwa1FLeGpIOFdNSEdFZ0VnZlBzVGdrVVNRbF94d2tUZ2ItUFBFLUVjdGpCQS1hT3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5raGMwUGJ3QjQwRzZaMTJEb2tUWUhETlBpWUxuTFNmUWdjWG1qM1VEaXM5Yml2SjZLSW9MOWd3SVdKaEthOHgwaVNVWE13N2VGbkJDNmZfVE5rang3cGN0V2c5SW1URGc0QU0xOXNWUldlU1E?oc=5"
     }
   ]
 }
