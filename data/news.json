@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T20:39:35.206Z",
+  "generatedAt": "2026-11-25T19:56:27.304Z",
   "items": [
+    {
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington - Reuters",
+      "summary": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington &nbsp;&nbsp; Reuters",
+      "date": "2026-11-24",
+      "company": "NVIDIA",
+      "related": "NVIDIA",
+      "region": "Estados Unidos / Global",
+      "category": "IA",
+      "source": "Reuters",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
+      "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-23",
+      "company": "Anthropic",
+      "related": "Anthropic",
+      "region": "Estados Unidos / Global",
+      "category": "Programación y agentes",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5"
+    },
     {
       "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
       "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Reuters",
@@ -14,28 +38,28 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5"
     },
     {
-      "title": "Introducing Gemini 4 Neon - blog.google",
-      "summary": "Introducing Gemini 4 Neon &nbsp;&nbsp; blog.google",
-      "date": "2026-11-18",
-      "company": "Google DeepMind",
-      "related": "Google DeepMind",
-      "region": "Estados Unidos / Global",
-      "category": "IA",
-      "source": "blog.google",
-      "official": true,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5"
+      "title": "Even the best AI agents struggle with everyday life - TechCrunch",
+      "summary": "Even the best AI agents struggle with everyday life &nbsp;&nbsp; TechCrunch",
+      "date": "2026-11-24",
+      "company": "",
+      "related": "",
+      "region": "Global",
+      "category": "Programación y agentes",
+      "source": "TechCrunch",
+      "official": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUpPVFFPTnhESWdjcjQ0NVZaOU9EV2JJaWZjS21OOFBYQUUwZlVNU3FBdXlZZExqb0puYk1ocG9yTEZPZkJXV1NVUm9hYTdJN0MwQktWRE5DZkFzMkp5eG4wdDdoRGp0Q3hqeWhUazRLMVJaTHlaSl9saUJkRDNpLTNRX21wM21ocWJRRVhfWQ?oc=5"
     },
     {
-      "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
-      "summary": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI &nbsp;&nbsp; Reuters",
-      "date": "2026-11-17",
-      "company": "OpenAI",
-      "related": "OpenAI",
+      "title": "Working with AI - Anthropic",
+      "summary": "Working with AI &nbsp;&nbsp; Anthropic",
+      "date": "2026-11-23",
+      "company": "Anthropic",
+      "related": "Anthropic",
       "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "Reuters",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
+      "category": "IA",
+      "source": "Anthropic",
+      "official": true,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument - MIT Technology Review",
@@ -76,7 +100,7 @@
     {
       "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
       "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release &nbsp;&nbsp; Axios",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "company": "OpenAI",
       "related": "OpenAI",
       "region": "Estados Unidos / Global",
@@ -86,40 +110,16 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5"
     },
     {
-      "title": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security - Industrial Cyber",
-      "summary": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security &nbsp;&nbsp; Industrial Cyber",
-      "date": "2026-11-24",
+      "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release - SiliconANGLE",
+      "summary": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release &nbsp;&nbsp; SiliconANGLE",
+      "date": "2026-11-25",
       "company": "Anthropic",
       "related": "Anthropic",
       "region": "Estados Unidos / Global",
       "category": "Modelos fundacionales",
-      "source": "Industrial Cyber",
+      "source": "SiliconANGLE",
       "official": false,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZU0wUUtOY0pVT0pfYzJGaE1pY003d3NrYzdjaHY3T2dzQkRXeXB4cnJPemstN3RyLXZBSnUxb2hfMTVxeUg0SDVNTEp2dlJ0dXVZM2gxdEFUQndqR2E4RTlQZ1NZU1M5cUlZbGREMDhPcDZfcDJWMklCcUMyeEN1bTNuSkJzN0NKRG90RC13dTZEMzFObk0weTBHN0UtQUR3NGE3QVpwQWVXUjJlbFJXVVd6Z3FpTWhpeHlxdVl5bG1nTVl2Tlh4cFhmeGdoQzFzeTJyRnNXbXJmWXhDRk84?oc=5"
-    },
-    {
-      "title": "Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios - Anadolu Ajansı",
-      "summary": "Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios &nbsp;&nbsp; Anadolu Ajansı",
-      "date": "2026-11-24",
-      "company": "OpenAI",
-      "related": "OpenAI",
-      "region": "Estados Unidos / Global",
-      "category": "Modelos fundacionales",
-      "source": "Anadolu Ajansı",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlFad0I0cjE0VVFtVkloWGVFZkZjODgtQ3BVTmV3cDNFSnZRX2ZESDdYRjRYUXNEMjFEbEp6Zm5mbnZzcVh6RkJPR1ZkS1ZINlg4LWdackdOa29CQkhwb1BiSHk3b0FMVlAxb1hVdU9hZ1hSOGZvOXhkblJCakNpVE8wMUxQM29DMG84THlQc3c1Sl9hLTREZG9BMlpCUjNXbnAwUHF4Q2t5R3lsZWlNejFmTjQ5dw?oc=5"
-    },
-    {
-      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving - WIRED",
-      "summary": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving &nbsp;&nbsp; WIRED",
-      "date": "2026-11-24",
-      "company": "Anthropic",
-      "related": "Anthropic",
-      "region": "Estados Unidos / Global",
-      "category": "Programación y agentes",
-      "source": "WIRED",
-      "official": false,
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5raGMwUGJ3QjQwRzZaMTJEb2tUWUhETlBpWUxuTFNmUWdjWG1qM1VEaXM5Yml2SjZLSW9MOWd3SVdKaEthOHgwaVNVWE13N2VGbkJDNmZfVE5rang3cGN0V2c5SW1URGc0QU0xOXNWUldlU1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXpHa0RwVHVTMDFmaVpkVzZBRmNxdmJuTVlPUDV0UWl2c0xzeERhY1VyQ2x3cng4QTRpMTB2MzNnclNDOHJCNWhSNlhsY3QxMXFxU1dMYnBLNVVBa3RiamcxMFd4cVd1ZFVOcFJEcVFNR29PR051c3NMRllTczlqVUlUUzVGUDBObmZJRVplbkZTVlRVdlZFU014aEJJTEVwM1lfYWpydU9LY1BraG1vNjZoY1d1S2g3U1RsSTF1RQ?oc=5"
     }
   ]
 }
